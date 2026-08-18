@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_benoit_mariage",
+  "name": "Benoît Mariage",
+  "external_ids": {
+    "wikidata": "Q2443051",
+    "imdb": "nm0547017"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

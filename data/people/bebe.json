@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bebe",
+  "name": "Bebe",
+  "external_ids": {
+    "wikidata": "Q234037",
+    "imdb": "nm1311122"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_biggy_van_blond",
+  "name": "Biggy van Blond",
+  "external_ids": {
+    "wikidata": "Q60085566",
+    "imdb": "nm0901989"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

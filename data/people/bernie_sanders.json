@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bernie_sanders",
+  "name": "Bernie Sanders",
+  "external_ids": {
+    "wikidata": "Q359442",
+    "imdb": "nm0761471"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}

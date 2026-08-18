@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_dylan",
+  "name": "Bob Dylan",
+  "external_ids": {
+    "wikidata": "Q392",
+    "imdb": "nm0001168"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}

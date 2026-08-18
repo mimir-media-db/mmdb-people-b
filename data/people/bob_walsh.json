@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_walsh",
+  "name": "Bob Walsh",
+  "external_ids": {
+    "wikidata": "Q28955633",
+    "imdb": "nm0909563"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947,
+  "death_year": 2016
+}
