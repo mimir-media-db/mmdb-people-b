@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_mckinney",
+  "name": "Bill McKinney",
+  "external_ids": {
+    "wikidata": "Q862314",
+    "imdb": "nm0571853"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1931,
+  "death_year": 2011
+}

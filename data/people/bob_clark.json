@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_clark",
+  "name": "Bob Clark",
+  "external_ids": {
+    "wikidata": "Q526359",
+    "imdb": "nm0163706"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939,
+  "death_year": 2007
+}

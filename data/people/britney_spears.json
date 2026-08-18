@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_britney_spears",
+  "name": "Britney Spears",
+  "external_ids": {
+    "wikidata": "Q11975",
+    "imdb": "nm0005453"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

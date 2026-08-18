@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brian_greene",
+  "name": "Brian Greene",
+  "external_ids": {
+    "wikidata": "Q60815",
+    "imdb": "nm0338694"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

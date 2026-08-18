@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_lake",
+  "name": "Bill Lake",
+  "external_ids": {
+    "wikidata": "Q4909814",
+    "imdb": "nm0482126"
+  },
+  "last_updated": "2026-08-18"
+}

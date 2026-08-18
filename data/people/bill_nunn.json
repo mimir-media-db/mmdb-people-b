@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_nunn",
+  "name": "Bill Nunn",
+  "external_ids": {
+    "wikidata": "Q279834",
+    "imdb": "nm0638056"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952,
+  "death_year": 2016
+}

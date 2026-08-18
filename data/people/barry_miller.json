@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_barry_miller",
+  "name": "Barry Miller",
+  "external_ids": {
+    "wikidata": "Q504160",
+    "imdb": "nm0587944"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

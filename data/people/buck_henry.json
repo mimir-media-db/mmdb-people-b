@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_buck_henry",
+  "name": "Buck Henry",
+  "external_ids": {
+    "wikidata": "Q999332",
+    "imdb": "nm0377750"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2020
+}

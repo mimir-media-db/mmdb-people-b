@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bryan_ferry",
+  "name": "Bryan Ferry",
+  "external_ids": {
+    "wikidata": "Q216179",
+    "imdb": "nm0275069"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

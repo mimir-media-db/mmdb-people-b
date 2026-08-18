@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_chott",
+  "name": "Bill Chott",
+  "external_ids": {
+    "wikidata": "Q2903160",
+    "imdb": "nm0159273"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

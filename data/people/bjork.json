@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bjork",
+  "name": "Björk",
+  "external_ids": {
+    "wikidata": "Q42455",
+    "imdb": "nm0001951"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

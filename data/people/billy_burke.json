@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_burke",
+  "name": "Billy Burke",
+  "external_ids": {
+    "wikidata": "Q325020",
+    "imdb": "nm0121605"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

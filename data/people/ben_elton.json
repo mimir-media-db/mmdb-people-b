@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_elton",
+  "name": "Ben Elton",
+  "external_ids": {
+    "wikidata": "Q436712",
+    "imdb": "nm0255780"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

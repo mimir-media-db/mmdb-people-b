@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_gradin",
+  "name": "Bert Gradin",
+  "external_ids": {
+    "wikidata": "Q5866470",
+    "imdb": "nm4672427"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

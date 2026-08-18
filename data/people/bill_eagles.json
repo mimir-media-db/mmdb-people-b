@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_eagles",
+  "name": "Bill Eagles",
+  "external_ids": {
+    "wikidata": "Q4908872",
+    "imdb": "nm0247123"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1900
+}
