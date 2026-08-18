@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_costas",
+  "name": "Bob Costas",
+  "external_ids": {
+    "wikidata": "Q2458861",
+    "imdb": "nm0182471"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

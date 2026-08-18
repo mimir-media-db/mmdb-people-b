@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_goldberg",
+  "name": "Bill Goldberg",
+  "external_ids": {
+    "wikidata": "Q115547",
+    "imdb": "nm0004966"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

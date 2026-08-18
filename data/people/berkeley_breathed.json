@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_berkeley_breathed",
+  "name": "Berkeley Breathed",
+  "external_ids": {
+    "wikidata": "Q322369",
+    "imdb": "nm0106455"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

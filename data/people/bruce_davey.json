@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bruce_davey",
+  "name": "Bruce Davey",
+  "external_ids": {
+    "wikidata": "Q381807",
+    "imdb": "nm0202704"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

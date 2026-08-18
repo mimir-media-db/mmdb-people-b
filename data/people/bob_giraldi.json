@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_giraldi",
+  "name": "Bob Giraldi",
+  "external_ids": {
+    "wikidata": "Q2907674",
+    "imdb": "nm0320588"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939
+}

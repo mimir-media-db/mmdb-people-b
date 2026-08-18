@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bono",
+  "name": "Bono",
+  "external_ids": {
+    "wikidata": "Q834621",
+    "imdb": "nm0095104"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

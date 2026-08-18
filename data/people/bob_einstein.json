@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_einstein",
+  "name": "Bob Einstein",
+  "external_ids": {
+    "wikidata": "Q2051128",
+    "imdb": "nm0251872"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2019
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_robinson",
+  "name": "Bill Robinson",
+  "external_ids": {
+    "wikidata": "Q862416",
+    "imdb": "nm0732408"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1878,
+  "death_year": 1949
+}

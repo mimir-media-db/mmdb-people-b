@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bernie_mac",
+  "name": "Bernie Mac",
+  "external_ids": {
+    "wikidata": "Q176323",
+    "imdb": "nm0005170"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957,
+  "death_year": 2008
+}

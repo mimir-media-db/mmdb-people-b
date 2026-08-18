@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_dow",
+  "name": "Bill Dow",
+  "external_ids": {
+    "wikidata": "Q2903195",
+    "imdb": "nm0235596"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

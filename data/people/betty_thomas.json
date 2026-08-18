@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_betty_thomas",
+  "name": "Betty Thomas",
+  "external_ids": {
+    "wikidata": "Q254732",
+    "imdb": "nm0858525"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

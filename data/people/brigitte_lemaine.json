@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brigitte_lemaine",
+  "name": "Brigitte Lemaine",
+  "external_ids": {
+    "wikidata": "Q27535432",
+    "imdb": "nm0501029"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_neuwirth",
+  "name": "Bob Neuwirth",
+  "external_ids": {
+    "wikidata": "Q2613425",
+    "imdb": "nm0627260"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939,
+  "death_year": 2022
+}

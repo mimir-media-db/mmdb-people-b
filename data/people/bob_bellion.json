@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_bellion",
+  "name": "Bob Bellion",
+  "external_ids": {
+    "wikidata": "Q15176446",
+    "imdb": "nm0069063"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}
