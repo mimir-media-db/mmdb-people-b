@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_fosko",
+  "name": "Bob Fosko",
+  "external_ids": {
+    "wikidata": "Q2634036",
+    "imdb": "nm0287564"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955,
+  "death_year": 2020
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_minton",
+  "name": "Bob Minton",
+  "external_ids": {
+    "wikidata": "Q4933419",
+    "imdb": "nm1734402"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946,
+  "death_year": 2010
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bb_king",
+  "name": "B.B. King",
+  "external_ids": {
+    "wikidata": "Q188969",
+    "imdb": "nm0454475"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1925,
+  "death_year": 2015
+}

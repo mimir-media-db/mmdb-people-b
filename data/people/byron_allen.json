@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_byron_allen",
+  "name": "Byron Allen",
+  "external_ids": {
+    "wikidata": "Q3647873",
+    "imdb": "nm0020334"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

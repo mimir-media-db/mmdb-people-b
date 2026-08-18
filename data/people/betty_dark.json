@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_betty_dark",
+  "name": "Betty Dark",
+  "external_ids": {
+    "wikidata": "Q131577084",
+    "imdb": "nm1665628"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

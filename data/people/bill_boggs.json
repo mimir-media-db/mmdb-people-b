@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_boggs",
+  "name": "Bill Boggs",
+  "external_ids": {
+    "wikidata": "Q4908185",
+    "imdb": "nm0091761"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}

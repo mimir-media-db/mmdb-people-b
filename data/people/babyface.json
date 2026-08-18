@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_babyface",
+  "name": "Babyface",
+  "external_ids": {
+    "wikidata": "Q344983",
+    "imdb": "nm0004892"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

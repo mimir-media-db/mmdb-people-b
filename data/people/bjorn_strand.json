@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bjorn_strand",
+  "name": "Björn Strand",
+  "external_ids": {
+    "wikidata": "Q6191848",
+    "imdb": "nm0833243"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943,
+  "death_year": 1996
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bart_sibrel",
+  "name": "Bart Sibrel",
+  "external_ids": {
+    "wikidata": "Q990256",
+    "imdb": "nm1847745"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

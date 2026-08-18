@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bobby_roth",
+  "name": "Bobby Roth",
+  "external_ids": {
+    "wikidata": "Q2908005",
+    "imdb": "nm0744794"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

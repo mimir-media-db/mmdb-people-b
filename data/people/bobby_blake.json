@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bobby_blake",
+  "name": "Bobby Blake",
+  "external_ids": {
+    "wikidata": "Q1565176",
+    "imdb": "nm0086495"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

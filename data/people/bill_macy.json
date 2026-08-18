@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_macy",
+  "name": "Bill Macy",
+  "external_ids": {
+    "wikidata": "Q247064",
+    "imdb": "nm0534409"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1922,
+  "death_year": 2019
+}

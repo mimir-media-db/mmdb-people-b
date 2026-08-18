@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_gates",
+  "name": "Bill Gates",
+  "external_ids": {
+    "wikidata": "Q5284",
+    "imdb": "nm0309540"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

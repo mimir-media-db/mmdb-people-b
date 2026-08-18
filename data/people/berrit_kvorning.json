@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_berrit_kvorning",
+  "name": "Berrit Kvorning",
+  "external_ids": {
+    "wikidata": "Q12303295",
+    "imdb": "nm0477016"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949,
+  "death_year": 2019
+}

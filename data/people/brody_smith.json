@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brody_smith",
+  "name": "Brody Smith",
+  "external_ids": {
+    "wikidata": "Q31818103",
+    "imdb": "nm0807545"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}

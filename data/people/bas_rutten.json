@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bas_rutten",
+  "name": "Bas Rutten",
+  "external_ids": {
+    "wikidata": "Q704832",
+    "imdb": "nm1008015"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

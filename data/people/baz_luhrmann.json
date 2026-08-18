@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_baz_luhrmann",
+  "name": "Baz Luhrmann",
+  "external_ids": {
+    "wikidata": "Q250545",
+    "imdb": "nm0525303"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

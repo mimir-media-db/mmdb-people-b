@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_johnson",
+  "name": "Bill Johnson",
+  "external_ids": {
+    "wikidata": "Q30717048",
+    "imdb": "nm0424592"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1923,
+  "death_year": 2016
+}
