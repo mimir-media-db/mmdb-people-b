@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_wyman",
+  "name": "Bill Wyman",
+  "external_ids": {
+    "wikidata": "Q312559",
+    "imdb": "nm0943827"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1936,
+  "death_year": null
+}

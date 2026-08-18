@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_paterson",
+  "name": "Bill Paterson",
+  "external_ids": {
+    "wikidata": "Q862358",
+    "imdb": "nm0665473"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1945,
+  "death_year": null
+}

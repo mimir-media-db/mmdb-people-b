@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_henrit",
+  "name": "Bob Henrit",
+  "external_ids": {
+    "wikidata": "Q2907701",
+    "imdb": "nm2260485"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1944,
+  "death_year": null
+}

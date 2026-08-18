@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_morley",
+  "name": "Bob Morley",
+  "external_ids": {
+    "wikidata": "Q1841191",
+    "imdb": "nm2366079"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1984,
+  "death_year": null
+}

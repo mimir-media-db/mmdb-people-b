@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_skarsgard",
+  "name": "Bill Skarsgård",
+  "external_ids": {
+    "wikidata": "Q862460",
+    "imdb": "nm0803889"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1990,
+  "death_year": null
+}

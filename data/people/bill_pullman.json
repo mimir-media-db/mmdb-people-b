@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_pullman",
+  "name": "Bill Pullman",
+  "external_ids": {
+    "wikidata": "Q315763",
+    "imdb": "nm0000597"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1953,
+  "death_year": null
+}

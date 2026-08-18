@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_murray",
+  "name": "Billy Murray",
+  "external_ids": {
+    "wikidata": "Q4913081",
+    "imdb": "nm0614854"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1941,
+  "death_year": null
+}

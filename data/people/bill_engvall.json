@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_engvall",
+  "name": "Bill Engvall",
+  "external_ids": {
+    "wikidata": "Q4908906",
+    "imdb": "nm0257821"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1957,
+  "death_year": null
+}

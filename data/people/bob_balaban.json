@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_balaban",
+  "name": "Bob Balaban",
+  "external_ids": {
+    "wikidata": "Q621490",
+    "imdb": "nm0000837"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1945,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_drago",
+  "name": "Billy Drago",
+  "external_ids": {
+    "wikidata": "Q446968",
+    "imdb": "nm0236711"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1946,
+  "death_year": 2019
+}

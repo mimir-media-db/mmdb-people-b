@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_corsair",
+  "name": "Bill Corsair",
+  "external_ids": {
+    "wikidata": "Q2903169",
+    "imdb": "nm0181067"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1953,
+  "death_year": null
+}

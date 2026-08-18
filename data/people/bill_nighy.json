@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_nighy",
+  "name": "Bill Nighy",
+  "external_ids": {
+    "wikidata": "Q207179",
+    "imdb": "nm0631490"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1949,
+  "death_year": null
+}

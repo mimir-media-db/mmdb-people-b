@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_yari",
+  "name": "Bob Yari",
+  "external_ids": {
+    "wikidata": "Q1969128",
+    "imdb": "nm0946441"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1961,
+  "death_year": null
+}

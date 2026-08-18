@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_brian_austin_green",
+  "name": "Brian Austin Green",
+  "external_ids": {
+    "wikidata": "Q313311",
+    "imdb": "nm0004977"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1973,
+  "death_year": null
+}

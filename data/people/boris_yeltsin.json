@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_boris_yeltsin",
+  "name": "Boris Yeltsin",
+  "external_ids": {
+    "wikidata": "Q34453",
+    "imdb": "nm0947418"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1931,
+  "death_year": 2007
+}

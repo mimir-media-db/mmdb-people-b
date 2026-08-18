@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_hader",
+  "name": "Bill Hader",
+  "external_ids": {
+    "wikidata": "Q14537",
+    "imdb": "nm0352778"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1978,
+  "death_year": null
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_wilbers",
+  "name": "Bob Wilbers",
+  "external_ids": {
+    "wikidata": "Q107809690",
+    "imdb": "nm1023549"
+  },
+  "last_updated": "2026-08-14",
+  "death_year": null
+}

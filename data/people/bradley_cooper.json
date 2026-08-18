@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bradley_cooper",
+  "name": "Bradley Cooper",
+  "external_ids": {
+    "wikidata": "Q205707",
+    "imdb": "nm0177896"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1975,
+  "death_year": null
+}

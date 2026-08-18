@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_unger",
+  "name": "Billy Unger",
+  "external_ids": {
+    "wikidata": "Q1190235",
+    "imdb": "nm2598945"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1995,
+  "death_year": null
+}
