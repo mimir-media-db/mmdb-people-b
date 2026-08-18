@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_marchant",
+  "name": "Bill Marchant",
+  "external_ids": {
+    "wikidata": "Q113517857",
+    "imdb": "nm1042930"
+  },
+  "last_updated": "2026-08-18"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_moody",
+  "name": "Ben Moody",
+  "external_ids": {
+    "wikidata": "Q313849",
+    "imdb": "nm1394404"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

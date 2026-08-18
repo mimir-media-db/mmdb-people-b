@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_oddie",
+  "name": "Bill Oddie",
+  "external_ids": {
+    "wikidata": "Q2407976",
+    "imdb": "nm0643919"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941,
+  "death_year": 2026
+}

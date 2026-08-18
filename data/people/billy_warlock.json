@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_warlock",
+  "name": "Billy Warlock",
+  "external_ids": {
+    "wikidata": "Q386629",
+    "imdb": "nm0912308"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_mumy",
+  "name": "Bill Mumy",
+  "external_ids": {
+    "wikidata": "Q748584",
+    "imdb": "nm0612621"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

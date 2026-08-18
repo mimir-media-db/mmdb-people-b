@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_brown",
+  "name": "Billy Brown",
+  "external_ids": {
+    "wikidata": "Q13860314",
+    "imdb": "nm0113117"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_schneider",
+  "name": "Bert Schneider",
+  "external_ids": {
+    "wikidata": "Q104599211",
+    "imdb": "nm2717328"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1941
+}
