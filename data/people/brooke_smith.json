@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_brooke_smith",
+  "name": "Brooke Smith",
+  "external_ids": {
+    "wikidata": "Q235725",
+    "imdb": "nm0807548"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1967,
+  "death_year": null
+}

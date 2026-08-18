@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_brigitte_paquette",
+  "name": "Brigitte Paquette",
+  "external_ids": {
+    "wikidata": "Q2925460",
+    "imdb": "nm0660714"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1960,
+  "death_year": null
+}

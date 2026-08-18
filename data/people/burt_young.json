@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_burt_young",
+  "name": "Burt Young",
+  "external_ids": {
+    "wikidata": "Q329700",
+    "imdb": "nm0949350"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1940,
+  "death_year": 2023
+}

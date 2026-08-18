@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brooks_branch",
+  "name": "Brooks Branch",
+  "external_ids": {
+    "wikidata": "Q113155394",
+    "imdb": "nm2397581"
+  },
+  "last_updated": "2026-08-15",
+  "death_year": null
+}
