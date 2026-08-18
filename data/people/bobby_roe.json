@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bobby_roe",
+  "name": "Bobby Roe",
+  "external_ids": {
+    "wikidata": "Q42666330",
+    "imdb": "nm1745427"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

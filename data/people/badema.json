@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_badema",
+  "name": "Badema",
+  "external_ids": {
+    "wikidata": "Q21012876",
+    "imdb": "nm0046006"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

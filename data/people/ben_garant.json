@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_garant",
+  "name": "Ben Garant",
+  "external_ids": {
+    "wikidata": "Q548479",
+    "imdb": "nm0304830"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

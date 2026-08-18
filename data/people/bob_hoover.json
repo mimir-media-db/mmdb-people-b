@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_hoover",
+  "name": "Bob Hoover",
+  "external_ids": {
+    "wikidata": "Q2907709",
+    "imdb": "nm8541736"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1922,
+  "death_year": 2016
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_betsy_beers",
+  "name": "Betsy Beers",
+  "external_ids": {
+    "wikidata": "Q4898272",
+    "imdb": "nm0066530"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

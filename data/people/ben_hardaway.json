@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_hardaway",
+  "name": "Ben Hardaway",
+  "external_ids": {
+    "wikidata": "Q2895473",
+    "imdb": "nm0362041"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1895,
+  "death_year": 1957
+}

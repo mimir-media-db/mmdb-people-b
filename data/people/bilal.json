@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bilal",
+  "name": "Bilal",
+  "external_ids": {
+    "wikidata": "Q860283",
+    "imdb": "nm0082090"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}
