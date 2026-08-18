@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_big_bill_broonzy",
+  "name": "Big Bill Broonzy",
+  "external_ids": {
+    "wikidata": "Q449239",
+    "imdb": "nm1410144"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1893,
+  "death_year": 1958
+}

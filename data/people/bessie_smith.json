@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bessie_smith",
+  "name": "Bessie Smith",
+  "external_ids": {
+    "wikidata": "Q93349",
+    "imdb": "nm0807439"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1894,
+  "death_year": 1937
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_ducsay",
+  "name": "Bob Ducsay",
+  "external_ids": {
+    "wikidata": "Q4172230",
+    "imdb": "nm0003032"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}
