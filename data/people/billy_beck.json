@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_beck",
+  "name": "Billy Beck",
+  "external_ids": {
+    "wikidata": "Q863008",
+    "imdb": "nm0065084"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1920,
+  "death_year": 2011
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_betsy_palmer",
+  "name": "Betsy Palmer",
+  "external_ids": {
+    "wikidata": "Q263765",
+    "imdb": "nm0658133"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1926,
+  "death_year": 2015
+}

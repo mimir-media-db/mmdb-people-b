@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_feldman",
+  "name": "Ben Feldman",
+  "external_ids": {
+    "wikidata": "Q1139600",
+    "imdb": "nm1133651"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

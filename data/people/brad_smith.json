@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brad_smith",
+  "name": "Brad Smith",
+  "external_ids": {
+    "wikidata": "Q2923428",
+    "imdb": "nm1414433"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}
