@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_best",
+  "name": "Ben Best",
+  "external_ids": {
+    "wikidata": "Q816440",
+    "imdb": "nm0078897"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1974,
+  "death_year": 2021
+}

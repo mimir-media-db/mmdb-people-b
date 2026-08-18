@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_clinton",
+  "name": "Bill Clinton",
+  "external_ids": {
+    "wikidata": "Q1124",
+    "imdb": "nm0001051"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1946,
+  "death_year": null
+}

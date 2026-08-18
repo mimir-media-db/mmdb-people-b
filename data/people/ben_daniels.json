@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_daniels",
+  "name": "Ben Daniels",
+  "external_ids": {
+    "wikidata": "Q609458",
+    "imdb": "nm0199842"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1964,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_weinstein",
+  "name": "Bob Weinstein",
+  "external_ids": {
+    "wikidata": "Q888311",
+    "imdb": "nm0918424"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1954,
+  "death_year": null
+}

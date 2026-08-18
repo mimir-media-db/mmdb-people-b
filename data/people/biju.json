@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_biju",
+  "name": "Biju",
+  "external_ids": {
+    "wikidata": "Q4907282",
+    "imdb": "nm3373269"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1971,
+  "death_year": null
+}

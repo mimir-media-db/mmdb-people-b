@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bruce_boxleitner",
+  "name": "Bruce Boxleitner",
+  "external_ids": {
+    "wikidata": "Q356156",
+    "imdb": "nm0000310"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1950,
+  "death_year": null
+}

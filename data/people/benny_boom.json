@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_benny_boom",
+  "name": "Benny Boom",
+  "external_ids": {
+    "wikidata": "Q3702688",
+    "imdb": "nm1534600"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1971,
+  "death_year": null
+}

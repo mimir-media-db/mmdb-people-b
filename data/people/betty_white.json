@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_betty_white",
+  "name": "Betty White",
+  "external_ids": {
+    "wikidata": "Q373895",
+    "imdb": "nm0924508"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1922,
+  "death_year": 2021
+}

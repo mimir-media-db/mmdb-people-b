@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bobby_deol",
+  "name": "Bobby Deol",
+  "external_ids": {
+    "wikidata": "Q48619",
+    "imdb": "nm0219967"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1969,
+  "death_year": null
+}

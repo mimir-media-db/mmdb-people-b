@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_buell",
+  "name": "Bill Buell",
+  "external_ids": {
+    "wikidata": "Q22680384",
+    "imdb": "nm0119144"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1952,
+  "death_year": null
+}

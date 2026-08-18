@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_benedict_cumberbatch",
+  "name": "Benedict Cumberbatch",
+  "external_ids": {
+    "wikidata": "Q244674",
+    "imdb": "nm1212722"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1976,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_burt_lancaster",
+  "name": "Burt Lancaster",
+  "external_ids": {
+    "wikidata": "Q160528",
+    "imdb": "nm0000044"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1913,
+  "death_year": 1994
+}

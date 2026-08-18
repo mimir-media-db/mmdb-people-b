@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_brian_cox",
+  "name": "Brian Cox",
+  "external_ids": {
+    "wikidata": "Q34975",
+    "imdb": "nm0004051"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1946,
+  "death_year": null
+}

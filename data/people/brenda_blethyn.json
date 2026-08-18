@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_brenda_blethyn",
+  "name": "Brenda Blethyn",
+  "external_ids": {
+    "wikidata": "Q229952",
+    "imdb": "nm0000950"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1946,
+  "death_year": null
+}

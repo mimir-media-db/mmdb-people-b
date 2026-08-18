@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bruce_campbell",
+  "name": "Bruce Campbell",
+  "external_ids": {
+    "wikidata": "Q309932",
+    "imdb": "nm0132257"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1958,
+  "death_year": null
+}

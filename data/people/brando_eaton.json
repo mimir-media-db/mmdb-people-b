@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_brando_eaton",
+  "name": "Brando Eaton",
+  "external_ids": {
+    "wikidata": "Q898100",
+    "imdb": "nm2343444"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1986,
+  "death_year": null
+}

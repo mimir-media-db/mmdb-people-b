@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_bob_thornton",
+  "name": "Billy Bob Thornton",
+  "external_ids": {
+    "wikidata": "Q202735",
+    "imdb": "nm0000671"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1955,
+  "death_year": null
+}

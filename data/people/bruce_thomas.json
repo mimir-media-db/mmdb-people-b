@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bruce_thomas",
+  "name": "Bruce Thomas",
+  "external_ids": {
+    "wikidata": "Q2166986",
+    "imdb": "nm0858573"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1961,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_schooley",
+  "name": "Bob Schooley",
+  "external_ids": {
+    "wikidata": "Q4355997",
+    "imdb": "nm0774792"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1961,
+  "death_year": null
+}

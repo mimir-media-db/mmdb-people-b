@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_barack_obama",
+  "name": "Barack Obama",
+  "external_ids": {
+    "wikidata": "Q76",
+    "imdb": "nm1682433"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1961,
+  "death_year": null
+}

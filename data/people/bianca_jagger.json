@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bianca_jagger",
+  "name": "Bianca Jagger",
+  "external_ids": {
+    "wikidata": "Q285549",
+    "imdb": "nm0415588"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1945,
+  "death_year": null
+}

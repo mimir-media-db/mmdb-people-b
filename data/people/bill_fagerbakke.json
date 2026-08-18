@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_fagerbakke",
+  "name": "Bill Fagerbakke",
+  "external_ids": {
+    "wikidata": "Q591238",
+    "imdb": "nm0265067"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1957,
+  "death_year": null
+}

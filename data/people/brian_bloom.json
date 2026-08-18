@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_brian_bloom",
+  "name": "Brian Bloom",
+  "external_ids": {
+    "wikidata": "Q743388",
+    "imdb": "nm0089141"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1970,
+  "death_year": null
+}

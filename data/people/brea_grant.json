@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_brea_grant",
+  "name": "Brea Grant",
+  "external_ids": {
+    "wikidata": "Q260134",
+    "imdb": "nm2647420"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1981,
+  "death_year": null
+}

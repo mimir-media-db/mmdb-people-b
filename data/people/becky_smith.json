@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_becky_smith",
+  "name": "Becky Smith",
+  "external_ids": {
+    "wikidata": "Q131381704",
+    "imdb": "nm1205463"
+  },
+  "last_updated": "2026-08-17",
+  "death_year": null
+}

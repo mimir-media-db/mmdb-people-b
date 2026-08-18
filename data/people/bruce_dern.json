@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bruce_dern",
+  "name": "Bruce Dern",
+  "external_ids": {
+    "wikidata": "Q357001",
+    "imdb": "nm0001136"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1936,
+  "death_year": null
+}

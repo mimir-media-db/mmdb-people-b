@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_miller",
+  "name": "Ben Miller",
+  "external_ids": {
+    "wikidata": "Q816568",
+    "imdb": "nm0587950"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1966,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_brad_armstrong",
+  "name": "Brad Armstrong",
+  "external_ids": {
+    "wikidata": "Q896740",
+    "imdb": "nm0035630"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1965,
+  "death_year": null
+}

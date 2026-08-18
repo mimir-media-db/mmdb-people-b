@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_milner",
+  "name": "Bill Milner",
+  "external_ids": {
+    "wikidata": "Q902800",
+    "imdb": "nm2389463"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1995,
+  "death_year": null
+}

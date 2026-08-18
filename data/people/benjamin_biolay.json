@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_benjamin_biolay",
+  "name": "Benjamin Biolay",
+  "external_ids": {
+    "wikidata": "Q182991",
+    "imdb": "nm1483904"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1973,
+  "death_year": null
+}

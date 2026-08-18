@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_badri",
+  "name": "Badri",
+  "external_ids": {
+    "wikidata": "Q16727356",
+    "imdb": "nm5237351"
+  },
+  "last_updated": "2026-08-17",
+  "death_year": null
+}

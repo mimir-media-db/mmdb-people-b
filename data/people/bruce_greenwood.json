@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bruce_greenwood",
+  "name": "Bruce Greenwood",
+  "external_ids": {
+    "wikidata": "Q342788",
+    "imdb": "nm0339304"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1956,
+  "death_year": null
+}

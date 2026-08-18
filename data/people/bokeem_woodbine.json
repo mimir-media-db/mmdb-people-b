@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bokeem_woodbine",
+  "name": "Bokeem Woodbine",
+  "external_ids": {
+    "wikidata": "Q1139685",
+    "imdb": "nm0940158"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1973,
+  "death_year": null
+}

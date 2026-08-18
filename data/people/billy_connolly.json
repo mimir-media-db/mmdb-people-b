@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_connolly",
+  "name": "Billy Connolly",
+  "external_ids": {
+    "wikidata": "Q298838",
+    "imdb": "nm0175262"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1942,
+  "death_year": null
+}
