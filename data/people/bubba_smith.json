@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bubba_smith",
+  "name": "Bubba Smith",
+  "external_ids": {
+    "wikidata": "Q318938",
+    "imdb": "nm0807571"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945,
+  "death_year": 2011
+}

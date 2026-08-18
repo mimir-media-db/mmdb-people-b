@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_boy_george",
+  "name": "Boy George",
+  "external_ids": {
+    "wikidata": "Q312883",
+    "imdb": "nm0004954"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}
