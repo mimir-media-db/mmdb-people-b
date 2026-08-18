@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brenda_strong",
+  "name": "Brenda Strong",
+  "external_ids": {
+    "wikidata": "Q31970",
+    "imdb": "nm0834947"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_kidman",
+  "name": "Billy Kidman",
+  "external_ids": {
+    "wikidata": "Q707915",
+    "imdb": "nm0344604"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}
