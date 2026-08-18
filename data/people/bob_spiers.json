@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_spiers",
+  "name": "Bob Spiers",
+  "external_ids": {
+    "wikidata": "Q2907839",
+    "imdb": "nm0818639"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945,
+  "death_year": 2008
+}

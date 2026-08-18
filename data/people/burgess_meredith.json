@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_burgess_meredith",
+  "name": "Burgess Meredith",
+  "external_ids": {
+    "wikidata": "Q343633",
+    "imdb": "nm0580565"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1907,
+  "death_year": 1997
+}

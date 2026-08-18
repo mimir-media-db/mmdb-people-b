@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_wong",
+  "name": "Ben Wong",
+  "external_ids": {
+    "wikidata": "Q701907",
+    "imdb": "nm2346030"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_brigitte_mira",
+  "name": "Brigitte Mira",
+  "external_ids": {
+    "wikidata": "Q69648",
+    "imdb": "nm0591930"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1910,
+  "death_year": 2005
+}

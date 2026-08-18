@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bionca",
+  "name": "Bionca",
+  "external_ids": {
+    "wikidata": "Q455407",
+    "imdb": "nm0083152"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

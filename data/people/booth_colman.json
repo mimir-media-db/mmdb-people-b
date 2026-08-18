@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_booth_colman",
+  "name": "Booth Colman",
+  "external_ids": {
+    "wikidata": "Q2910553",
+    "imdb": "nm0172884"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1923,
+  "death_year": 2014
+}

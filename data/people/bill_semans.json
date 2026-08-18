@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_semans",
+  "name": "Bill Semans",
+  "external_ids": {
+    "wikidata": "Q113853231",
+    "imdb": "nm0783717"
+  },
+  "last_updated": "2026-08-18"
+}

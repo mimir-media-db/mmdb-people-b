@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_binh_dang",
+  "name": "Binh Dang",
+  "external_ids": {
+    "wikidata": "Q111677212",
+    "imdb": "nm0199462"
+  },
+  "last_updated": "2026-08-18"
+}

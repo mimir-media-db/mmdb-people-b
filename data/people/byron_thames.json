@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_byron_thames",
+  "name": "Byron Thames",
+  "external_ids": {
+    "wikidata": "Q5004480",
+    "imdb": "nm0856988"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

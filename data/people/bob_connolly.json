@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_connolly",
+  "name": "Bob Connolly",
+  "external_ids": {
+    "wikidata": "Q4932121",
+    "imdb": "nm0175264"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}
