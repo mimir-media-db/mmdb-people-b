@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_miles",
+  "name": "Ben Miles",
+  "external_ids": {
+    "wikidata": "Q2895523",
+    "imdb": "nm0587060"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1966,
+  "death_year": null
+}

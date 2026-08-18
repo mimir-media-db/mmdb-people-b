@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_vereen",
+  "name": "Ben Vereen",
+  "external_ids": {
+    "wikidata": "Q770841",
+    "imdb": "nm0893965"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1946,
+  "death_year": null
+}

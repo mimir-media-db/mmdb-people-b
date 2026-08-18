@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_barnes",
+  "name": "Ben Barnes",
+  "external_ids": {
+    "wikidata": "Q310086",
+    "imdb": "nm1602660"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1981,
+  "death_year": null
+}

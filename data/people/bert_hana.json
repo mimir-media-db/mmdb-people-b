@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_hana",
+  "name": "Bert Hana",
+  "external_ids": {
+    "wikidata": "Q16069465",
+    "imdb": "nm1468158"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1982,
+  "death_year": null
+}

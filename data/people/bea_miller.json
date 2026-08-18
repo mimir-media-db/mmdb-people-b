@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bea_miller",
+  "name": "Bea Miller",
+  "external_ids": {
+    "wikidata": "Q16240326",
+    "imdb": "nm2356963"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1999,
+  "death_year": null
+}

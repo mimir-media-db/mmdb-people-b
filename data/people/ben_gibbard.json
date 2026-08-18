@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_gibbard",
+  "name": "Ben Gibbard",
+  "external_ids": {
+    "wikidata": "Q816502",
+    "imdb": "nm1989219"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1976,
+  "death_year": null
+}

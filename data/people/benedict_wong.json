@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_benedict_wong",
+  "name": "Benedict Wong",
+  "external_ids": {
+    "wikidata": "Q3329808",
+    "imdb": "nm0938950"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1971,
+  "death_year": null
+}

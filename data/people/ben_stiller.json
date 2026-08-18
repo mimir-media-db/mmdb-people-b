@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_stiller",
+  "name": "Ben Stiller",
+  "external_ids": {
+    "wikidata": "Q47100",
+    "imdb": "nm0001774"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1965,
+  "death_year": null
+}

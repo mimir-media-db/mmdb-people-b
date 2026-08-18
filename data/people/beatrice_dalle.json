@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_beatrice_dalle",
+  "name": "Béatrice Dalle",
+  "external_ids": {
+    "wikidata": "Q273394",
+    "imdb": "nm0001095"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1964,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_barry_pepper",
+  "name": "Barry Pepper",
+  "external_ids": {
+    "wikidata": "Q315604",
+    "imdb": "nm0001608"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1970,
+  "death_year": null
+}

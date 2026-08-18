@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_babar_ali",
+  "name": "Babar Ali",
+  "external_ids": {
+    "wikidata": "Q4837512",
+    "imdb": "nm0019405"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1975,
+  "death_year": null
+}
