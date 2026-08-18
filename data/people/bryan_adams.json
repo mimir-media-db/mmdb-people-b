@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bryan_adams",
+  "name": "Bryan Adams",
+  "external_ids": {
+    "wikidata": "Q482907",
+    "imdb": "nm0001898"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

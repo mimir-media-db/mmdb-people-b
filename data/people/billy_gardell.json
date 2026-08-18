@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_gardell",
+  "name": "Billy Gardell",
+  "external_ids": {
+    "wikidata": "Q563569",
+    "imdb": "nm0974080"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

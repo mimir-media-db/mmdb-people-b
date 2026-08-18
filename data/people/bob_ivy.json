@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_ivy",
+  "name": "Bob Ivy",
+  "external_ids": {
+    "wikidata": "Q3641305",
+    "imdb": "nm0412370"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

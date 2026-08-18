@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bobby_brown",
+  "name": "Bobby Brown",
+  "external_ids": {
+    "wikidata": "Q311241",
+    "imdb": "nm0113140"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

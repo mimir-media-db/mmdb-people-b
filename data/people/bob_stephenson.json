@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_stephenson",
+  "name": "Bob Stephenson",
+  "external_ids": {
+    "wikidata": "Q352012",
+    "imdb": "nm0827307"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_black_widow",
+  "name": "Black Widow",
+  "external_ids": {
+    "wikidata": "Q138747765",
+    "imdb": "nm1295502"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}
