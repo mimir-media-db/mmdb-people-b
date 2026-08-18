@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_knight",
+  "name": "Bob Knight",
+  "external_ids": {
+    "wikidata": "Q888594",
+    "imdb": "nm0460820"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940,
+  "death_year": 2023
+}

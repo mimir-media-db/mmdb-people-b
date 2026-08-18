@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_hastings",
+  "name": "Bob Hastings",
+  "external_ids": {
+    "wikidata": "Q2617640",
+    "imdb": "nm0368561"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1925,
+  "death_year": 2014
+}

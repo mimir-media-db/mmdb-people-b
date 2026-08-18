@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_mercer",
+  "name": "Bob Mercer",
+  "external_ids": {
+    "wikidata": "Q4933399",
+    "imdb": "nm0580244"
+  },
+  "last_updated": "2026-08-18"
+}

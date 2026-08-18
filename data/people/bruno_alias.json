@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bruno_alias",
+  "name": "Bruno Alias",
+  "external_ids": {
+    "wikidata": "Q11894614",
+    "imdb": "nm2138276"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1928,
+  "death_year": 1996
+}

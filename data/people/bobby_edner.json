@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bobby_edner",
+  "name": "Bobby Edner",
+  "external_ids": {
+    "wikidata": "Q888528",
+    "imdb": "nm0002810"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1988
+}

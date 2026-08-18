@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_ewing",
+  "name": "Bill Ewing",
+  "external_ids": {
+    "wikidata": "Q4908934",
+    "imdb": "nm0263943"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_newton",
+  "name": "Bert Newton",
+  "external_ids": {
+    "wikidata": "Q4895246",
+    "imdb": "nm0628465"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938,
+  "death_year": 2021
+}

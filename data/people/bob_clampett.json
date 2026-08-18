@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_clampett",
+  "name": "Bob Clampett",
+  "external_ids": {
+    "wikidata": "Q670417",
+    "imdb": "nm0163332"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1913,
+  "death_year": 1984
+}

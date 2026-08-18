@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_boyle",
+  "name": "Bob Boyle",
+  "external_ids": {
+    "wikidata": "Q887818",
+    "imdb": "nm0102196"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

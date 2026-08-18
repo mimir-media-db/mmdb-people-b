@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_pope",
+  "name": "Bill Pope",
+  "external_ids": {
+    "wikidata": "Q795025",
+    "imdb": "nm0691084"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

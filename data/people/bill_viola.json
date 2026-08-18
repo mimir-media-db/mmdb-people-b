@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_viola",
+  "name": "Bill Viola",
+  "external_ids": {
+    "wikidata": "Q437616",
+    "imdb": "nm0899169"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951,
+  "death_year": 2024
+}
