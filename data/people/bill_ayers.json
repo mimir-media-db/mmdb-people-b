@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_ayers",
+  "name": "Bill Ayers",
+  "external_ids": {
+    "wikidata": "Q738029",
+    "imdb": "nm0043764"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944
+}

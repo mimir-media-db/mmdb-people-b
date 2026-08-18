@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_harper",
+  "name": "Ben Harper",
+  "external_ids": {
+    "wikidata": "Q380849",
+    "imdb": "nm0363816"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

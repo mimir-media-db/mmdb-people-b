@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brighton_hertford",
+  "name": "Brighton Hertford",
+  "external_ids": {
+    "wikidata": "Q2925371",
+    "imdb": "nm0381033"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1986
+}

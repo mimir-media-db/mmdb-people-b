@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_campbell",
+  "name": "Billy Campbell",
+  "external_ids": {
+    "wikidata": "Q553813",
+    "imdb": "nm0001004"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

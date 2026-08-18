@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_barbara_broccoli",
+  "name": "Barbara Broccoli",
+  "external_ids": {
+    "wikidata": "Q237226",
+    "imdb": "nm0110483"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_rafelson",
+  "name": "Bob Rafelson",
+  "external_ids": {
+    "wikidata": "Q95039",
+    "imdb": "nm0706182"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1933,
+  "death_year": 2022
+}
