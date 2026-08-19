@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_newmark",
+  "name": "Ben Newmark",
+  "external_ids": {
+    "wikidata": "Q23750885",
+    "imdb": "nm1797112"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

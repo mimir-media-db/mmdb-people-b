@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_rock",
+  "name": "Ben Rock",
+  "external_ids": {
+    "wikidata": "Q4886378",
+    "imdb": "nm0734146"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}

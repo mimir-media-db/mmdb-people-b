@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_de_moor",
+  "name": "Bob De Moor",
+  "external_ids": {
+    "wikidata": "Q1973557",
+    "imdb": "nm0210427"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}

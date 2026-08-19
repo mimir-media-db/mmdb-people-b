@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_babe_ruth",
+  "name": "Babe Ruth",
+  "external_ids": {
+    "wikidata": "Q213812",
+    "imdb": "nm0751899"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1895,
+  "death_year": 1948
+}

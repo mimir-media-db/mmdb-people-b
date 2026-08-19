@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_wallis",
+  "name": "Bill Wallis",
+  "external_ids": {
+    "wikidata": "Q4911271",
+    "imdb": "nm0909245"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1936,
+  "death_year": 2013
+}

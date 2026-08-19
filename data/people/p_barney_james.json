@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_barney_james",
+  "name": "Barney James",
+  "external_ids": {
+    "wikidata": "Q4861739"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943,
+  "death_year": 2015
+}

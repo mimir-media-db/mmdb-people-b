@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_barry_quin",
+  "name": "Barry Quin",
+  "external_ids": {
+    "wikidata": "Q4864630",
+    "imdb": "nm0703652"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}
