@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_britain_spellings",
+  "name": "Britain Spellings",
+  "external_ids": {
+    "wikidata": "Q111589465",
+    "imdb": "nm0817691"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

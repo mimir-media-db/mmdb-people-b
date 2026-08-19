@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_richardson",
+  "name": "Bob Richardson",
+  "external_ids": {
+    "wikidata": "Q16735198",
+    "imdb": "nm0724436"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

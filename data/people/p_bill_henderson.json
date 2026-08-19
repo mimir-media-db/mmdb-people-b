@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_henderson",
+  "name": "Bill Henderson",
+  "external_ids": {
+    "wikidata": "Q862184",
+    "imdb": "nm0376347"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1926,
+  "death_year": 2016
+}

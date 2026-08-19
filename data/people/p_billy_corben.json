@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_corben",
+  "name": "Billy Corben",
+  "external_ids": {
+    "wikidata": "Q4912387",
+    "imdb": "nm0169253"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}
