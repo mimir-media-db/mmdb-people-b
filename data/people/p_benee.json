@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_benee",
+  "name": "Benee",
+  "external_ids": {
+    "wikidata": "Q61749159",
+    "imdb": "nm11537301"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}

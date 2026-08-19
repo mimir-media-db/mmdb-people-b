@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bear_grylls",
+  "name": "Bear Grylls",
+  "external_ids": {
+    "wikidata": "Q485365",
+    "imdb": "nm2426012"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}
