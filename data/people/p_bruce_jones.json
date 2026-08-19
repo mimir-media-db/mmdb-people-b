@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bruce_jones",
+  "name": "Bruce Jones",
+  "external_ids": {
+    "wikidata": "Q4977759",
+    "imdb": "nm0427646"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953
+}

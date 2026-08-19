@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_ketai",
+  "name": "Ben Ketai",
+  "external_ids": {
+    "wikidata": "Q4885991",
+    "imdb": "nm2406892"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}
