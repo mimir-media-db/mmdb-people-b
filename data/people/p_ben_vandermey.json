@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_vandermey",
+  "name": "Ben VanderMey",
+  "external_ids": {
+    "wikidata": "Q64005625",
+    "imdb": "nm4910117"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}

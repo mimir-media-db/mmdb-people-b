@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_scholiers",
+  "name": "Bert Scholiers",
+  "external_ids": {
+    "wikidata": "Q108513354",
+    "imdb": "nm3710190"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

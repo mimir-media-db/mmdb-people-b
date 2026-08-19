@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brigitte_macron",
+  "name": "Brigitte Macron",
+  "external_ids": {
+    "wikidata": "Q21511883",
+    "imdb": "nm8753391"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1953
+}
