@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_duff",
+  "name": "Bill Duff",
+  "external_ids": {
+    "wikidata": "Q4908834",
+    "imdb": "nm2611207"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_keen",
+  "name": "Bob Keen",
+  "external_ids": {
+    "wikidata": "Q1424310",
+    "imdb": "nm0444571"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}

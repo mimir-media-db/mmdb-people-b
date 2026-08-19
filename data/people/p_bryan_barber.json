@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bryan_barber",
+  "name": "Bryan Barber",
+  "external_ids": {
+    "wikidata": "Q4979971",
+    "imdb": "nm1309359"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

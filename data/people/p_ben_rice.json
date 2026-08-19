@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_rice",
+  "name": "Ben Rice",
+  "external_ids": {
+    "wikidata": "Q9168644",
+    "imdb": "nm1512929"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}

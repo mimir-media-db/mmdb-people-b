@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bastian_schweinsteiger",
+  "name": "Bastian Schweinsteiger",
+  "external_ids": {
+    "wikidata": "Q44298",
+    "imdb": "nm1946102"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
