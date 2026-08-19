@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_huller",
+  "name": "Ben Huller",
+  "external_ids": {
+    "wikidata": "Q23907067",
+    "imdb": "nm2680984"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

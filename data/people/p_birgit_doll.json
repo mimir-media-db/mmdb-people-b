@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_birgit_doll",
+  "name": "Birgit Doll",
+  "external_ids": {
+    "wikidata": "Q865204",
+    "imdb": "nm0231085"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958,
+  "death_year": 2015
+}

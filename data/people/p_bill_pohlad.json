@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_pohlad",
+  "name": "Bill Pohlad",
+  "external_ids": {
+    "wikidata": "Q4910517",
+    "imdb": "nm0688361"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}

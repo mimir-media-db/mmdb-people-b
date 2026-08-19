@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bette_davis",
+  "name": "Bette Davis",
+  "external_ids": {
+    "wikidata": "Q71206",
+    "imdb": "nm0000012"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1908,
+  "death_year": 1989
+}

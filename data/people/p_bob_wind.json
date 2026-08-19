@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_wind",
+  "name": "Bob Wind",
+  "external_ids": {
+    "wikidata": "Q18923000",
+    "imdb": "nm1770895"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
