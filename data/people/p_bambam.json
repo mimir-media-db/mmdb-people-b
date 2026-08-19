@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bambam",
+  "name": "BamBam",
+  "external_ids": {
+    "wikidata": "Q16688282",
+    "imdb": "nm7281333"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1997
+}
