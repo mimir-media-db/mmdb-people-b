@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_mole",
+  "name": "Ben Mole",
+  "external_ids": {
+    "wikidata": "Q20753180",
+    "imdb": "nm1153494"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
