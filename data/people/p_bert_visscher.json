@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_visscher",
+  "name": "Bert Visscher",
+  "external_ids": {
+    "wikidata": "Q2400403",
+    "imdb": "nm0899705"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}
