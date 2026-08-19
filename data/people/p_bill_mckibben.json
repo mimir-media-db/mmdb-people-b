@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_mckibben",
+  "name": "Bill McKibben",
+  "external_ids": {
+    "wikidata": "Q503815",
+    "imdb": "nm2647339"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

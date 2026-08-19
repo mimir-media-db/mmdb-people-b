@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bode_miller",
+  "name": "Bode Miller",
+  "external_ids": {
+    "wikidata": "Q2129",
+    "imdb": "nm1301126"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}
