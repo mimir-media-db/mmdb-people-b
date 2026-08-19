@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_blue_angel",
+  "name": "Blue Angel",
+  "external_ids": {
+    "wikidata": "Q3316590",
+    "imdb": "nm2750772"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}

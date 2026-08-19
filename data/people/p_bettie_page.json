@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bettie_page",
+  "name": "Bettie Page",
+  "external_ids": {
+    "wikidata": "Q61898",
+    "imdb": "nm0656114"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1923,
+  "death_year": 2008
+}

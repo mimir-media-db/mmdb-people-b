@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_brian_jones",
+  "name": "Brian Jones",
+  "external_ids": {
+    "wikidata": "Q204943",
+    "imdb": "nm0427627"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1942,
+  "death_year": 1969
+}

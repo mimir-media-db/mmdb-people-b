@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_boy_william",
+  "name": "Boy William",
+  "external_ids": {
+    "wikidata": "Q12477180",
+    "imdb": "nm5323041"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
