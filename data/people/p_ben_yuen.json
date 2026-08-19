@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_yuen",
+  "name": "Ben Yuen",
+  "external_ids": {
+    "wikidata": "Q55718976",
+    "imdb": "nm2113499"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}

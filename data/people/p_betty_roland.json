@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_betty_roland",
+  "name": "Betty Roland",
+  "external_ids": {
+    "wikidata": "Q2900263",
+    "imdb": "nm0738016"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

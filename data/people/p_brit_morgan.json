@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brit_morgan",
+  "name": "Brit Morgan",
+  "external_ids": {
+    "wikidata": "Q433618",
+    "imdb": "nm2694584"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

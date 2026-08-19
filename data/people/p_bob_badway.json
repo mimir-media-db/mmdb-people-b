@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_badway",
+  "name": "Bob Badway",
+  "external_ids": {
+    "wikidata": "Q114554698",
+    "imdb": "nm2508272"
+  },
+  "last_updated": "2026-08-19"
+}
