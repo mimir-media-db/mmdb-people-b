@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bing_van_son",
+  "name": "Bing van Son",
+  "external_ids": {
+    "wikidata": "Q111443921",
+    "imdb": "nm11302370"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2006
+}
