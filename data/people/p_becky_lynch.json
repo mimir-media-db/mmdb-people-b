@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_becky_lynch",
+  "name": "Becky Lynch",
+  "external_ids": {
+    "wikidata": "Q7301800",
+    "imdb": "nm2656974"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

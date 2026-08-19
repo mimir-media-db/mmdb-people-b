@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_buddy_vedder",
+  "name": "Buddy Vedder",
+  "external_ids": {
+    "wikidata": "Q20873952",
+    "imdb": "nm5203772"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_benjamin",
+  "name": "Benjamin",
+  "external_ids": {
+    "wikidata": "Q18072432",
+    "imdb": "nm7297617"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1997
+}

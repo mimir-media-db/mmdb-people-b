@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_holderman",
+  "name": "Bill Holderman",
+  "external_ids": {
+    "wikidata": "Q65948566",
+    "imdb": "nm2250139"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}

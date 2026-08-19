@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bambino",
+  "name": "Bambino",
+  "external_ids": {
+    "wikidata": "Q115045937",
+    "imdb": "nm7255370"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}
