@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_betsy_mckinley",
+  "name": "Betsy McKinley",
+  "external_ids": {
+    "wikidata": "Q106612571",
+    "imdb": "nm7276678"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}
