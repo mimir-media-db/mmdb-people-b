@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_beck",
+  "name": "Beck",
+  "external_ids": {
+    "wikidata": "Q11901",
+    "imdb": "nm0065059"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

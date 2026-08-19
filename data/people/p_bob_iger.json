@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_iger",
+  "name": "Bob Iger",
+  "external_ids": {
+    "wikidata": "Q532423",
+    "imdb": "nm2250609"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1951
+}

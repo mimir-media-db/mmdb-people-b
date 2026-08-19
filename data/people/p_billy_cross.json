@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_cross",
+  "name": "Billy Cross",
+  "external_ids": {
+    "wikidata": "Q4912410",
+    "imdb": "nm1034585"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1946
+}

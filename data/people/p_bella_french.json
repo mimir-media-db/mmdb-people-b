@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bella_french",
+  "name": "Bella French",
+  "external_ids": {
+    "wikidata": "Q102981129",
+    "imdb": "nm8922271"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bovi",
+  "name": "Bovi",
+  "external_ids": {
+    "wikidata": "Q16218372",
+    "imdb": "nm7483552"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
