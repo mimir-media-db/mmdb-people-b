@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_byron_q",
+  "name": "Byron Q",
+  "external_ids": {
+    "wikidata": "Q5004450",
+    "imdb": "nm3336371"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

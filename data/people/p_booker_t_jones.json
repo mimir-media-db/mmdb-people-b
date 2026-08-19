@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_booker_t_jones",
+  "name": "Booker T. Jones",
+  "external_ids": {
+    "wikidata": "Q703767",
+    "imdb": "nm0427607"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1944
+}

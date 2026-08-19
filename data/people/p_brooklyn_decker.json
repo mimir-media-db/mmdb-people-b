@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brooklyn_decker",
+  "name": "Brooklyn Decker",
+  "external_ids": {
+    "wikidata": "Q230282",
+    "imdb": "nm2395937"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

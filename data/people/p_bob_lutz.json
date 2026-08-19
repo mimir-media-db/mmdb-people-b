@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_lutz",
+  "name": "Bob Lutz",
+  "external_ids": {
+    "wikidata": "Q115833",
+    "imdb": "nm3141136"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1932
+}
