@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_field",
+  "name": "Billy Field",
+  "external_ids": {
+    "wikidata": "Q124706070",
+    "imdb": "nm0275899"
+  },
+  "last_updated": "2026-08-19"
+}
