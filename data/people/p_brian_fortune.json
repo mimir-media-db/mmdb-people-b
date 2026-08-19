@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brian_fortune",
+  "name": "Brian Fortune",
+  "external_ids": {
+    "wikidata": "Q19829668",
+    "imdb": "nm1987270"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_prady",
+  "name": "Bill Prady",
+  "external_ids": {
+    "wikidata": "Q862389",
+    "imdb": "nm0695080"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

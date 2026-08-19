@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_hercules",
+  "name": "Bob Hercules",
+  "external_ids": {
+    "wikidata": "Q24619051",
+    "imdb": "nm0378762"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_nye",
+  "name": "Bill Nye",
+  "external_ids": {
+    "wikidata": "Q2619019",
+    "imdb": "nm0638557"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}

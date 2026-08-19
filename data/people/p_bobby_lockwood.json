@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bobby_lockwood",
+  "name": "Bobby Lockwood",
+  "external_ids": {
+    "wikidata": "Q888617",
+    "imdb": "nm1225475"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}
