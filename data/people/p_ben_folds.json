@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_folds",
+  "name": "Ben Folds",
+  "external_ids": {
+    "wikidata": "Q435681",
+    "imdb": "nm1072886"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966
+}

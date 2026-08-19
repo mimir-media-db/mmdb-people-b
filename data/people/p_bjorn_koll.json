@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bjorn_koll",
+  "name": "Björn Koll",
+  "external_ids": {
+    "wikidata": "Q95894516",
+    "imdb": "nm1479796"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}

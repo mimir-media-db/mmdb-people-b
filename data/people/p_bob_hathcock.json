@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_hathcock",
+  "name": "Bob Hathcock",
+  "external_ids": {
+    "wikidata": "Q21822507",
+    "imdb": "nm0368906"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1944
+}

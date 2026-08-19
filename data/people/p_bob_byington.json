@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_byington",
+  "name": "Bob Byington",
+  "external_ids": {
+    "wikidata": "Q4931990",
+    "imdb": "nm0125887"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
