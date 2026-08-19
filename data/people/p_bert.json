@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bert",
+  "name": "Bert",
+  "external_ids": {
+    "wikidata": "Q107068531",
+    "imdb": "nm2134432"
+  },
+  "last_updated": "2026-08-19"
+}

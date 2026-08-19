@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_benz",
+  "name": "Bill Benz",
+  "external_ids": {
+    "wikidata": "Q140042732",
+    "imdb": "nm3189181"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
