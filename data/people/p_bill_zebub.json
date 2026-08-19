@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_zebub",
+  "name": "Bill Zebub",
+  "external_ids": {
+    "wikidata": "Q3640012",
+    "imdb": "nm1754496"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

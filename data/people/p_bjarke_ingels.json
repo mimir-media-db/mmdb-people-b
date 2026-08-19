@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bjarke_ingels",
+  "name": "Bjarke Ingels",
+  "external_ids": {
+    "wikidata": "Q429817",
+    "imdb": "nm1921464"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1974
+}
