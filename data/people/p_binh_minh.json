@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_binh_minh",
+  "name": "Bình Minh",
+  "external_ids": {
+    "wikidata": "Q16156845",
+    "imdb": "nm2725798"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_kish",
+  "name": "Bert Kish",
+  "external_ids": {
+    "wikidata": "Q113853282",
+    "imdb": "nm0457178"
+  },
+  "last_updated": "2026-08-19"
+}

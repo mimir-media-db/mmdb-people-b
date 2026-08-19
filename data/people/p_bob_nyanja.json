@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_nyanja",
+  "name": "Bob Nyanja",
+  "external_ids": {
+    "wikidata": "Q3641329",
+    "imdb": "nm1805369"
+  },
+  "last_updated": "2026-08-19"
+}

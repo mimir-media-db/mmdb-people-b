@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_mccain",
+  "name": "Ben McCain",
+  "external_ids": {
+    "wikidata": "Q4886141",
+    "imdb": "nm0564580"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}

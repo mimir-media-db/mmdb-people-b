@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_boris_anderson",
+  "name": "Boris Anderson",
+  "external_ids": {
+    "wikidata": "Q893616",
+    "imdb": "nm2474122"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

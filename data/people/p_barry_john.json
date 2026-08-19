@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_barry_john",
+  "name": "Barry John",
+  "external_ids": {
+    "wikidata": "Q4864354",
+    "imdb": "nm0424134"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943
+}

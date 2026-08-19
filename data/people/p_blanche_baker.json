@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_blanche_baker",
+  "name": "Blanche Baker",
+  "external_ids": {
+    "wikidata": "Q153125",
+    "imdb": "nm0048273"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956
+}

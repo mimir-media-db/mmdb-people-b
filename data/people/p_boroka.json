@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_boroka",
+  "name": "Boroka",
+  "external_ids": {
+    "wikidata": "Q9661881",
+    "imdb": "nm2270863"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
