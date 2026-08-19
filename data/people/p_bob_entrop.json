@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_entrop",
+  "name": "Bob Entrop",
+  "external_ids": {
+    "wikidata": "Q114346465",
+    "imdb": "nm0258193"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_sinclair",
+  "name": "Ben Sinclair",
+  "external_ids": {
+    "wikidata": "Q60318878",
+    "imdb": "nm4161154"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

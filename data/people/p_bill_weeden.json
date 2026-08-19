@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_weeden",
+  "name": "Bill Weeden",
+  "external_ids": {
+    "wikidata": "Q112962360",
+    "imdb": "nm0917253"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1940
+}
