@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_peterson",
+  "name": "Bob Peterson",
+  "external_ids": {
+    "wikidata": "Q740682",
+    "imdb": "nm0677037"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_leclair",
+  "name": "Ben LeClair",
+  "external_ids": {
+    "wikidata": "Q124828026",
+    "imdb": "nm1444110"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
