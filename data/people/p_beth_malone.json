@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_beth_malone",
+  "name": "Beth Malone",
+  "external_ids": {
+    "wikidata": "Q19850869",
+    "imdb": "nm1543334"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
