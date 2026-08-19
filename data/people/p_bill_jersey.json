@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_jersey",
+  "name": "Bill Jersey",
+  "external_ids": {
+    "wikidata": "Q22101696",
+    "imdb": "nm0422080"
+  },
+  "last_updated": "2026-08-19",
+  "death_year": 2026
+}

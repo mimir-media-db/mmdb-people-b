@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_miller",
+  "name": "Bill Miller",
+  "external_ids": {
+    "wikidata": "Q4910185",
+    "imdb": "nm0587964"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1960
+}

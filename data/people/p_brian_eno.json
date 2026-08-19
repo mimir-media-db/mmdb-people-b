@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brian_eno",
+  "name": "Brian Eno",
+  "external_ids": {
+    "wikidata": "Q569003",
+    "imdb": "nm0006061"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}
