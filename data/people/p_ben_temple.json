@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_temple",
+  "name": "Ben Temple",
+  "external_ids": {
+    "wikidata": "Q96907543",
+    "imdb": "nm0854676"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}

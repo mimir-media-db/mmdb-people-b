@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_blake_shelton",
+  "name": "Blake Shelton",
+  "external_ids": {
+    "wikidata": "Q94831",
+    "imdb": "nm1627901"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

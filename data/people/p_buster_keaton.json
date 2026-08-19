@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_buster_keaton",
+  "name": "Buster Keaton",
+  "external_ids": {
+    "wikidata": "Q103949",
+    "imdb": "nm0000036"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1895,
+  "death_year": 1966
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_jones",
+  "name": "Bill Jones",
+  "external_ids": {
+    "wikidata": "Q65665756",
+    "imdb": "nm0427580"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
