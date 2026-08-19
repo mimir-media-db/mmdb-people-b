@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_brand",
+  "name": "Ben Brand",
+  "external_ids": {
+    "wikidata": "Q117861987",
+    "imdb": "nm6130830"
+  },
+  "last_updated": "2026-08-19"
+}
