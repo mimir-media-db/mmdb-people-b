@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_marshall",
+  "name": "Ben Marshall",
+  "external_ids": {
+    "wikidata": "Q110089527",
+    "imdb": "nm2951652"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
