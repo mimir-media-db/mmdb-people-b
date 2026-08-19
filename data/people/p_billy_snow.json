@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_snow",
+  "name": "Billy Snow",
+  "external_ids": {
+    "wikidata": "Q115438278",
+    "imdb": "nm1971626"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
