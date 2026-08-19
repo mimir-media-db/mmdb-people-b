@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_forster",
+  "name": "Ben Forster",
+  "external_ids": {
+    "wikidata": "Q4885662",
+    "imdb": "nm4808823"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

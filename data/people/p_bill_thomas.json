@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_thomas",
+  "name": "Bill Thomas",
+  "external_ids": {
+    "wikidata": "Q4911128",
+    "imdb": "nm0858530"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

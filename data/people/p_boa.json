@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_boa",
+  "name": "BoA",
+  "external_ids": {
+    "wikidata": "Q232449",
+    "imdb": "nm1262749"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
