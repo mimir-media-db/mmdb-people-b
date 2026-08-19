@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bao_nhan",
+  "name": "Bảo Nhân",
+  "external_ids": {
+    "wikidata": "Q117862905",
+    "imdb": "nm7865570"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
