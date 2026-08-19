@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_oreilly",
+  "name": "Bill O'Reilly",
+  "external_ids": {
+    "wikidata": "Q310953",
+    "imdb": "nm0971123"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}

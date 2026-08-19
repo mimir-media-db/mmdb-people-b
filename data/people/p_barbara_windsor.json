@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_barbara_windsor",
+  "name": "Barbara Windsor",
+  "external_ids": {
+    "wikidata": "Q449062",
+    "imdb": "nm0934774"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1937,
+  "death_year": 2020
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_rosen",
+  "name": "Bob Rosen",
+  "external_ids": {
+    "wikidata": "Q19816325",
+    "imdb": "nm2128019"
+  },
+  "last_updated": "2026-08-19"
+}

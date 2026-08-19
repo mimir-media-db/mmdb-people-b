@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_mchenry",
+  "name": "Bill McHenry",
+  "external_ids": {
+    "wikidata": "Q862302"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
