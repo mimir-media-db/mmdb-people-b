@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bobby_fischer",
+  "name": "Bobby Fischer",
+  "external_ids": {
+    "wikidata": "Q41314",
+    "imdb": "nm1648139"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943,
+  "death_year": 2008
+}

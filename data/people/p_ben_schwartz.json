@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_schwartz",
+  "name": "Ben Schwartz",
+  "external_ids": {
+    "wikidata": "Q4886423",
+    "imdb": "nm2355635"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

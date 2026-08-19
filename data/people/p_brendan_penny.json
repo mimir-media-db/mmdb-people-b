@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brendan_penny",
+  "name": "Brendan Penny",
+  "external_ids": {
+    "wikidata": "Q12198264",
+    "imdb": "nm1638242"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

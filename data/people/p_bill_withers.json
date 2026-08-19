@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_withers",
+  "name": "Bill Withers",
+  "external_ids": {
+    "wikidata": "Q346565",
+    "imdb": "nm0936719"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1938,
+  "death_year": 2020
+}

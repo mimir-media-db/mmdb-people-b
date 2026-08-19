@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_christie",
+  "name": "Bob Christie",
+  "external_ids": {
+    "wikidata": "Q4932067",
+    "imdb": "nm3523384"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

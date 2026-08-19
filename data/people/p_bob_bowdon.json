@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_bowdon",
+  "name": "Bob Bowdon",
+  "external_ids": {
+    "wikidata": "Q16206048",
+    "imdb": "nm0100706"
+  },
+  "last_updated": "2026-08-19"
+}
