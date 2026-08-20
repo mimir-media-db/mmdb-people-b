@@ -322,6 +322,12 @@
     "path": "data/people/p_babak_yousefi.json"
   },
   {
+    "id": "p_babaloo_mandel",
+    "name": "Babaloo Mandel",
+    "birth_year": 1949,
+    "path": "data/people/p_babaloo_mandel.json"
+  },
+  {
     "id": "p_babanrao_gholap",
     "name": "Babanrao Gholap",
     "path": "data/people/p_babanrao_gholap.json"
@@ -4332,6 +4338,12 @@
     "path": "data/people/p_bard_faust.json"
   },
   {
+    "id": "p_bardia_kiaras",
+    "name": "Bardia Kiaras",
+    "birth_year": 1979,
+    "path": "data/people/p_bardia_kiaras.json"
+  },
+  {
     "id": "p_bardo_bohlefeld",
     "name": "Bardo Böhlefeld",
     "birth_year": 1988,
@@ -4614,6 +4626,12 @@
     "name": "Barrie M. Osborne",
     "birth_year": 1944,
     "path": "data/people/p_barrie_m_osborne.json"
+  },
+  {
+    "id": "p_barrington_pheloung",
+    "name": "Barrington Pheloung",
+    "birth_year": 1954,
+    "path": "data/people/p_barrington_pheloung.json"
   },
   {
     "id": "p_barry_adamson",
@@ -9196,6 +9214,12 @@
     "id": "p_ben_jagger",
     "name": "Ben Jagger",
     "path": "data/people/p_ben_jagger.json"
+  },
+  {
+    "id": "p_ben_jeger",
+    "name": "Ben Jeger",
+    "birth_year": 1953,
+    "path": "data/people/p_ben_jeger.json"
   },
   {
     "id": "p_ben_jehoshua",
@@ -14661,6 +14685,12 @@
     "path": "data/people/p_bertrand_bonello.json"
   },
   {
+    "id": "p_bertrand_burgalat",
+    "name": "Bertrand Burgalat",
+    "birth_year": 1963,
+    "path": "data/people/p_bertrand_burgalat.json"
+  },
+  {
     "id": "p_bertrand_cantat",
     "name": "Bertrand Cantat",
     "birth_year": 1964,
@@ -15002,6 +15032,12 @@
     "id": "p_beth_gallagher",
     "name": "Beth Gallagher",
     "path": "data/people/p_beth_gallagher.json"
+  },
+  {
+    "id": "p_beth_gibbons",
+    "name": "Beth Gibbons",
+    "birth_year": 1965,
+    "path": "data/people/p_beth_gibbons.json"
   },
   {
     "id": "p_beth_goddard",
@@ -17775,6 +17811,12 @@
     "path": "data/people/p_bill_flynn.json"
   },
   {
+    "id": "p_bill_frisell",
+    "name": "Bill Frisell",
+    "birth_year": 1951,
+    "path": "data/people/p_bill_frisell.json"
+  },
+  {
     "id": "p_bill_gates",
     "name": "Bill Gates",
     "birth_year": 1955,
@@ -17937,6 +17979,18 @@
     "id": "p_bill_lake",
     "name": "Bill Lake",
     "path": "data/people/p_bill_lake.json"
+  },
+  {
+    "id": "p_bill_lancaster",
+    "name": "Bill Lancaster",
+    "birth_year": 1947,
+    "path": "data/people/p_bill_lancaster.json"
+  },
+  {
+    "id": "p_bill_laswell",
+    "name": "Bill Laswell",
+    "birth_year": 1955,
+    "path": "data/people/p_bill_laswell.json"
   },
   {
     "id": "p_bill_lee",
@@ -19062,6 +19116,11 @@
     "name": "Billy Snow",
     "birth_year": 1979,
     "path": "data/people/p_billy_snow.json"
+  },
+  {
+    "id": "p_billy_straus",
+    "name": "Billy Straus",
+    "path": "data/people/p_billy_straus.json"
   },
   {
     "id": "p_billy_syahputra",
@@ -20665,6 +20724,12 @@
     "path": "data/people/p_bjrn_olaf_johannessen.json"
   },
   {
+    "id": "p_bjrn_ole_rasch",
+    "name": "Bjørn Ole Rasch",
+    "birth_year": 1959,
+    "path": "data/people/p_bjrn_ole_rasch.json"
+  },
+  {
     "id": "p_bjrn_skagestad",
     "name": "Bjørn Skagestad",
     "birth_year": 1950,
@@ -21053,6 +21118,12 @@
     "id": "p_blake_naftel",
     "name": "Blake Naftel",
     "path": "data/people/p_blake_naftel.json"
+  },
+  {
+    "id": "p_blake_neely",
+    "name": "Blake Neely",
+    "birth_year": 1969,
+    "path": "data/people/p_blake_neely.json"
   },
   {
     "id": "p_blake_nolan",
@@ -21904,6 +21975,12 @@
     "path": "data/people/p_bo_welch.json"
   },
   {
+    "id": "p_bo_yang",
+    "name": "Bo Yang",
+    "birth_year": 1920,
+    "path": "data/people/p_bo_yang.json"
+  },
+  {
     "id": "p_bo_zenga",
     "name": "Bo Zenga",
     "path": "data/people/p_bo_zenga.json"
@@ -22446,6 +22523,12 @@
     "path": "data/people/p_bob_lazar.json"
   },
   {
+    "id": "p_bob_lenox",
+    "name": "Bob Lenox",
+    "birth_year": 1944,
+    "path": "data/people/p_bob_lenox.json"
+  },
+  {
     "id": "p_bob_losure",
     "name": "Bob Losure",
     "birth_year": 1942,
@@ -22524,6 +22607,12 @@
     "id": "p_bob_meyer",
     "name": "Bob Meyer",
     "path": "data/people/p_bob_meyer.json"
+  },
+  {
+    "id": "p_bob_mills",
+    "name": "Bob Mills",
+    "birth_year": 1957,
+    "path": "data/people/p_bob_mills.json"
   },
   {
     "id": "p_bob_minton",
@@ -24805,6 +24894,12 @@
     "path": "data/people/p_boris_acosta.json"
   },
   {
+    "id": "p_boris_akunin",
+    "name": "Boris Akunin",
+    "birth_year": 1956,
+    "path": "data/people/p_boris_akunin.json"
+  },
+  {
     "id": "p_boris_aljinovic",
     "name": "Boris Aljinovic",
     "birth_year": 1967,
@@ -27009,6 +27104,12 @@
     "name": "Bramma",
     "birth_year": 1979,
     "path": "data/people/p_bramma.json"
+  },
+  {
+    "id": "p_bramwell_tovey",
+    "name": "Bramwell Tovey",
+    "birth_year": 1953,
+    "path": "data/people/p_bramwell_tovey.json"
   },
   {
     "id": "p_branca_camargo",
@@ -29683,6 +29784,12 @@
     "path": "data/people/p_brian_conley.json"
   },
   {
+    "id": "p_brian_connelly",
+    "name": "Brian Connelly",
+    "birth_year": 1986,
+    "path": "data/people/p_brian_connelly.json"
+  },
+  {
     "id": "p_brian_connolly",
     "name": "Brian Connolly",
     "birth_year": 1945,
@@ -29891,6 +29998,12 @@
     "id": "p_brian_falduto",
     "name": "Brian Falduto",
     "path": "data/people/p_brian_falduto.json"
+  },
+  {
+    "id": "p_brian_finch",
+    "name": "Brian Finch",
+    "birth_year": 1936,
+    "path": "data/people/p_brian_finch.json"
   },
   {
     "id": "p_brian_fitzgibbon",
@@ -30565,6 +30678,12 @@
     "name": "Brian Murray",
     "birth_year": 1937,
     "path": "data/people/p_brian_murray.json"
+  },
+  {
+    "id": "p_brian_nelson",
+    "name": "Brian Nelson",
+    "birth_year": 1958,
+    "path": "data/people/p_brian_nelson.json"
   },
   {
     "id": "p_brian_netto",
@@ -32197,6 +32316,12 @@
     "id": "p_britta_mischer",
     "name": "Britta Mischer",
     "path": "data/people/p_britta_mischer.json"
+  },
+  {
+    "id": "p_britta_phillips",
+    "name": "Britta Phillips",
+    "birth_year": 1963,
+    "path": "data/people/p_britta_phillips.json"
   },
   {
     "id": "p_britta_rindelaub",
@@ -34090,6 +34215,11 @@
     "name": "Bruno Dumont",
     "birth_year": 1958,
     "path": "data/people/p_bruno_dumont.json"
+  },
+  {
+    "id": "p_bruno_epron_mahmoudi",
+    "name": "Bruno Epron Mahmoudi",
+    "path": "data/people/p_bruno_epron_mahmoudi.json"
   },
   {
     "id": "p_bruno_eyron",
@@ -36567,6 +36697,12 @@
     "id": "p_byron_werner",
     "name": "Byron Werner",
     "path": "data/people/p_byron_werner.json"
+  },
+  {
+    "id": "p_byron_wong",
+    "name": "Byron Wong",
+    "birth_year": 1971,
+    "path": "data/people/p_byron_wong.json"
   },
   {
     "id": "p_byrum_geisler",
