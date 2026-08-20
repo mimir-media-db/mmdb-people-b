@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_bouma",
+  "name": "Bert Bouma",
+  "external_ids": {
+    "wikidata": "Q1962651",
+    "imdb": "nm0099625"
+  },
+  "last_updated": "2026-08-20"
+}
