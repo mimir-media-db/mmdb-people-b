@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bosco_brasil",
+  "name": "Bosco Brasil",
+  "external_ids": {
+    "wikidata": "Q9661990",
+    "imdb": "nm0105392"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960
+}

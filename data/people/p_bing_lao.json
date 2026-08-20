@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bing_lao",
+  "name": "Bing Lao",
+  "external_ids": {
+    "wikidata": "Q28839741"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1948,
+  "death_year": 2024
+}

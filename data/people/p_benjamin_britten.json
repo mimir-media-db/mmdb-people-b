@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_benjamin_britten",
+  "name": "Benjamin Britten",
+  "external_ids": {
+    "wikidata": "Q150767",
+    "imdb": "nm0110123"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1913,
+  "death_year": 1976
+}
