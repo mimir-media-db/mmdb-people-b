@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_finger",
+  "name": "Bill Finger",
+  "external_ids": {
+    "wikidata": "Q464282",
+    "imdb": "nm0277730"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1914,
+  "death_year": 1974
+}
