@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bart_westerlaken",
+  "name": "Bart Westerlaken",
+  "external_ids": {
+    "wikidata": "Q15872887",
+    "imdb": "nm1082691"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1977
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_brezel_goring",
+  "name": "Brezel Göring",
+  "external_ids": {
+    "wikidata": "Q15792958",
+    "imdb": "nm1972820"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}

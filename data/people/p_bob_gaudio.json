@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_gaudio",
+  "name": "Bob Gaudio",
+  "external_ids": {
+    "wikidata": "Q887941",
+    "imdb": "nm0309964"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1942
+}

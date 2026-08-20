@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_berna_ceppas",
+  "name": "Berna Ceppas",
+  "external_ids": {
+    "wikidata": "Q18243270",
+    "imdb": "nm1278832"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1963
+}

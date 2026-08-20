@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_wrede",
+  "name": "Bert Wrede",
+  "external_ids": {
+    "wikidata": "Q23059907",
+    "imdb": "nm0942080"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960
+}
