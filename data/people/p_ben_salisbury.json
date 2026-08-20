@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_salisbury",
+  "name": "Ben Salisbury",
+  "external_ids": {
+    "wikidata": "Q18921422",
+    "imdb": "nm1367927"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
