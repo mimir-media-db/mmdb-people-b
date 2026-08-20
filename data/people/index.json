@@ -353,6 +353,12 @@
     "path": "data/people/p_babak_tafti.json"
   },
   {
+    "id": "p_babak_vakili",
+    "name": "Babak Vakili",
+    "birth_year": 1985,
+    "path": "data/people/p_babak_vakili.json"
+  },
+  {
     "id": "p_babak_yousefi",
     "name": "Babak Yousefi",
     "path": "data/people/p_babak_yousefi.json"
@@ -778,6 +784,11 @@
     "name": "Bachir Skirej",
     "birth_year": 1939,
     "path": "data/people/p_bachir_skirej.json"
+  },
+  {
+    "id": "p_bachu_mukherjee",
+    "name": "Bachu Mukherjee",
+    "path": "data/people/p_bachu_mukherjee.json"
   },
   {
     "id": "p_back_jaeho",
@@ -5837,6 +5848,11 @@
     "path": "data/people/p_bartosz_gelner.json"
   },
   {
+    "id": "p_bartosz_janiszewski",
+    "name": "Bartosz Janiszewski",
+    "path": "data/people/p_bartosz_janiszewski.json"
+  },
+  {
     "id": "p_bartosz_konopka",
     "name": "Bartosz Konopka",
     "birth_year": 1972,
@@ -10323,6 +10339,12 @@
     "id": "p_ben_sharrock",
     "name": "Ben Sharrock",
     "path": "data/people/p_ben_sharrock.json"
+  },
+  {
+    "id": "p_ben_shattuck",
+    "name": "Ben Shattuck",
+    "birth_year": 1984,
+    "path": "data/people/p_ben_shattuck.json"
   },
   {
     "id": "p_ben_sheehan",
@@ -16323,6 +16345,12 @@
     "name": "Bettina Grahs",
     "birth_year": 1974,
     "path": "data/people/p_bettina_grahs.json"
+  },
+  {
+    "id": "p_bettina_gundermann",
+    "name": "Bettina Gundermann",
+    "birth_year": 1969,
+    "path": "data/people/p_bettina_gundermann.json"
   },
   {
     "id": "p_bettina_haasen",
@@ -22505,6 +22533,11 @@
     "path": "data/people/p_blandine_bury.json"
   },
   {
+    "id": "p_blandine_jet",
+    "name": "Blandine Jet",
+    "path": "data/people/p_blandine_jet.json"
+  },
+  {
     "id": "p_blandine_lenoir",
     "name": "Blandine Lenoir",
     "birth_year": 1973,
@@ -26872,6 +26905,12 @@
     "name": "Bořivoj Penc",
     "birth_year": 1936,
     "path": "data/people/p_borivoj_penc.json"
+  },
+  {
+    "id": "p_borivoj_zeman",
+    "name": "Bořivoj Zeman",
+    "birth_year": 1912,
+    "path": "data/people/p_borivoj_zeman.json"
   },
   {
     "id": "p_borivoje_kandic",
@@ -34395,6 +34434,12 @@
     "path": "data/people/p_bronius_babkauskas.json"
   },
   {
+    "id": "p_bronja_zakelj",
+    "name": "Bronja Žakelj",
+    "birth_year": 1969,
+    "path": "data/people/p_bronja_zakelj.json"
+  },
+  {
     "id": "p_bronson_pelletier",
     "name": "Bronson Pelletier",
     "birth_year": 1986,
@@ -36247,6 +36292,12 @@
     "name": "Bruno Müller-Oerlinghausen",
     "birth_year": 1936,
     "path": "data/people/p_bruno_mulleroerlinghausen.json"
+  },
+  {
+    "id": "p_bruno_muschio",
+    "name": "Bruno Muschio",
+    "birth_year": 1983,
+    "path": "data/people/p_bruno_muschio.json"
   },
   {
     "id": "p_bruno_muzzolini",
