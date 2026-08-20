@@ -739,6 +739,12 @@
     "path": "data/people/p_bacha_caravedo.json"
   },
   {
+    "id": "p_bachar_markhalife",
+    "name": "Bachar Mar-Khalifé",
+    "birth_year": 1983,
+    "path": "data/people/p_bachar_markhalife.json"
+  },
+  {
     "id": "p_bachi_valishvili",
     "name": "Bachi Valishvili",
     "birth_year": 1995,
@@ -3606,6 +3612,12 @@
     "path": "data/people/p_barbara_nedeljakova.json"
   },
   {
+    "id": "p_barbara_nicolosi",
+    "name": "Barbara Nicolosi",
+    "birth_year": 1964,
+    "path": "data/people/p_barbara_nicolosi.json"
+  },
+  {
     "id": "p_barbara_niven",
     "name": "Barbara Niven",
     "birth_year": 1953,
@@ -3862,6 +3874,12 @@
     "name": "Barbara Soky",
     "birth_year": 1999,
     "path": "data/people/p_barbara_soky.json"
+  },
+  {
+    "id": "p_barbara_sommer",
+    "name": "Barbara Sommer",
+    "birth_year": 1981,
+    "path": "data/people/p_barbara_sommer.json"
   },
   {
     "id": "p_barbara_sommers",
@@ -11487,6 +11505,11 @@
     "name": "Benjamin Castaldi",
     "birth_year": 1970,
     "path": "data/people/p_benjamin_castaldi.json"
+  },
+  {
+    "id": "p_benjamin_charbit",
+    "name": "Benjamin Charbit",
+    "path": "data/people/p_benjamin_charbit.json"
   },
   {
     "id": "p_benjamin_charles",
@@ -23537,6 +23560,12 @@
     "path": "data/people/p_bob_martet.json"
   },
   {
+    "id": "p_bob_martin",
+    "name": "Bob Martin",
+    "birth_year": 1962,
+    "path": "data/people/p_bob_martin.json"
+  },
+  {
     "id": "p_bob_mason",
     "name": "Bob Mason",
     "birth_year": 1961,
@@ -27044,6 +27073,12 @@
     "path": "data/people/p_boy_abunda.json"
   },
   {
+    "id": "p_boy_candra",
+    "name": "Boy Candra",
+    "birth_year": 1989,
+    "path": "data/people/p_boy_candra.json"
+  },
+  {
     "id": "p_boy_george",
     "name": "Boy George",
     "birth_year": 1961,
@@ -28596,6 +28631,11 @@
     "id": "p_brandon_james",
     "name": "Brandon James",
     "path": "data/people/p_brandon_james.json"
+  },
+  {
+    "id": "p_brandon_jarrett",
+    "name": "Brandon Jarrett",
+    "path": "data/people/p_brandon_jarrett.json"
   },
   {
     "id": "p_brandon_jay_mclaren",
@@ -30511,6 +30551,12 @@
     "id": "p_brett_jacobsen",
     "name": "Brett Jacobsen",
     "path": "data/people/p_brett_jacobsen.json"
+  },
+  {
+    "id": "p_brett_johnson",
+    "name": "Brett Johnson",
+    "birth_year": 1982,
+    "path": "data/people/p_brett_johnson.json"
   },
   {
     "id": "p_brett_kashmere",
@@ -33072,6 +33118,11 @@
     "id": "p_brigitte_bouillot",
     "name": "Brigitte Bouillot",
     "path": "data/people/p_brigitte_bouillot.json"
+  },
+  {
+    "id": "p_brigitte_buc",
+    "name": "Brigitte Buc",
+    "path": "data/people/p_brigitte_buc.json"
   },
   {
     "id": "p_brigitte_catillon",
