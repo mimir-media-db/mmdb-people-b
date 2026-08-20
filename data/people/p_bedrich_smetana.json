@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bedrich_smetana",
+  "name": "Bedřich Smetana",
+  "external_ids": {
+    "wikidata": "Q48173",
+    "imdb": "nm0806845"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1824,
+  "death_year": 1884
+}

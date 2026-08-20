@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_kimball",
+  "name": "Billy Kimball",
+  "external_ids": {
+    "wikidata": "Q2794120",
+    "imdb": "nm1269014"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1959
+}

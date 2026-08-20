@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_byron_janis",
+  "name": "Byron Janis",
+  "external_ids": {
+    "wikidata": "Q1018612",
+    "imdb": "nm0417638"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1928,
+  "death_year": 2024
+}
