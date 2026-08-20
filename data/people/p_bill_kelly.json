@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_kelly",
+  "name": "Bill Kelly",
+  "external_ids": {
+    "wikidata": "Q4909691",
+    "imdb": "nm0446210"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1977
+}
