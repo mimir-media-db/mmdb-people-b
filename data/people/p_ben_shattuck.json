@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_shattuck",
+  "name": "Ben Shattuck",
+  "external_ids": {
+    "wikidata": "Q112153549",
+    "imdb": "nm13074932"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1984
+}
