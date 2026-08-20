@@ -1145,6 +1145,12 @@
     "path": "data/people/p_bahador_maleki.json"
   },
   {
+    "id": "p_bahadr_boysal",
+    "name": "Bahadır Boysal",
+    "birth_year": 1976,
+    "path": "data/people/p_bahadr_boysal.json"
+  },
+  {
     "id": "p_bahadr_karasu",
     "name": "Bahadır Karasu",
     "birth_year": 1990,
@@ -1758,6 +1764,12 @@
     "path": "data/people/p_bala_singh.json"
   },
   {
+    "id": "p_balabhadrapatruni_ramani",
+    "name": "Balabhadrapatruni Ramani",
+    "birth_year": 1964,
+    "path": "data/people/p_balabhadrapatruni_ramani.json"
+  },
+  {
     "id": "p_balabhaskar",
     "name": "Balabhaskar",
     "birth_year": 1978,
@@ -1839,6 +1851,12 @@
     "name": "Balamani Amma",
     "birth_year": 1909,
     "path": "data/people/p_balamani_amma.json"
+  },
+  {
+    "id": "p_balas_abbaszad",
+    "name": "Balaş Abbaszadə",
+    "birth_year": 1950,
+    "path": "data/people/p_balas_abbaszad.json"
   },
   {
     "id": "p_balasekaran",
@@ -4594,6 +4612,12 @@
     "path": "data/people/p_barney_mcall.json"
   },
   {
+    "id": "p_barney_solomon",
+    "name": "Barney Solomon",
+    "birth_year": 1883,
+    "path": "data/people/p_barney_solomon.json"
+  },
+  {
     "id": "p_barney_white",
     "name": "Barney White",
     "path": "data/people/p_barney_white.json"
@@ -4684,6 +4708,12 @@
     "name": "Barrie Dunn",
     "birth_year": 1952,
     "path": "data/people/p_barrie_dunn.json"
+  },
+  {
+    "id": "p_barrie_keeffe",
+    "name": "Barrie Keeffe",
+    "birth_year": 1945,
+    "path": "data/people/p_barrie_keeffe.json"
   },
   {
     "id": "p_barrie_m_osborne",
@@ -6532,6 +6562,11 @@
     "id": "p_bazlo_leclair",
     "name": "Bazlo LeClair",
     "path": "data/people/p_bazlo_leclair.json"
+  },
+  {
+    "id": "p_bb_anuragi",
+    "name": "BB Anuragi",
+    "path": "data/people/p_bb_anuragi.json"
   },
   {
     "id": "p_bb_gandanghari",
@@ -12494,6 +12529,11 @@
     "path": "data/people/p_benoit_heimermann.json"
   },
   {
+    "id": "p_benoit_hillebrant",
+    "name": "Benoît Hillebrant",
+    "path": "data/people/p_benoit_hillebrant.json"
+  },
+  {
     "id": "p_benoit_jacquot",
     "name": "Benoît Jacquot",
     "birth_year": 1947,
@@ -13398,6 +13438,12 @@
     "name": "Bernard Chazelle",
     "birth_year": 1955,
     "path": "data/people/p_bernard_chazelle.json"
+  },
+  {
+    "id": "p_bernard_cogniaux",
+    "name": "Bernard Cogniaux",
+    "birth_year": 1952,
+    "path": "data/people/p_bernard_cogniaux.json"
   },
   {
     "id": "p_bernard_cribbins",
@@ -14638,6 +14684,12 @@
     "name": "Bert Tischendorf",
     "birth_year": 1979,
     "path": "data/people/p_bert_tischendorf.json"
+  },
+  {
+    "id": "p_bert_v_royal",
+    "name": "Bert V. Royal",
+    "birth_year": 1977,
+    "path": "data/people/p_bert_v_royal.json"
   },
   {
     "id": "p_bert_visscher",
@@ -16031,6 +16083,12 @@
     "id": "p_beverly_austin",
     "name": "Beverly Austin",
     "path": "data/people/p_beverly_austin.json"
+  },
+  {
+    "id": "p_beverly_cleary",
+    "name": "Beverly Cleary",
+    "birth_year": 1916,
+    "path": "data/people/p_beverly_cleary.json"
   },
   {
     "id": "p_beverly_dangelo",
@@ -17867,6 +17925,12 @@
     "path": "data/people/p_bill_condon.json"
   },
   {
+    "id": "p_bill_connor",
+    "name": "Bill Connor",
+    "birth_year": 1948,
+    "path": "data/people/p_bill_connor.json"
+  },
+  {
     "id": "p_bill_conti",
     "name": "Bill Conti",
     "birth_year": 1942,
@@ -19109,6 +19173,12 @@
     "path": "data/people/p_billy_joe_shaver.json"
   },
   {
+    "id": "p_billy_kahora",
+    "name": "Billy Kahora",
+    "birth_year": 1999,
+    "path": "data/people/p_billy_kahora.json"
+  },
+  {
     "id": "p_billy_kay",
     "name": "Billy Kay",
     "birth_year": 1984,
@@ -19837,6 +19907,12 @@
     "path": "data/people/p_bionca.json"
   },
   {
+    "id": "p_biosphere",
+    "name": "Biosphere",
+    "birth_year": 1962,
+    "path": "data/people/p_biosphere.json"
+  },
+  {
     "id": "p_bipana_thapa",
     "name": "Bipana Thapa",
     "birth_year": 1977,
@@ -19968,6 +20044,12 @@
     "name": "Birger Åsander",
     "birth_year": 1909,
     "path": "data/people/p_birger_asander.json"
+  },
+  {
+    "id": "p_birger_clausen",
+    "name": "Birger Clausen",
+    "birth_year": 1999,
+    "path": "data/people/p_birger_clausen.json"
   },
   {
     "id": "p_birger_larsen",
@@ -23225,6 +23307,12 @@
     "name": "Bob Zany",
     "birth_year": 1961,
     "path": "data/people/p_bob_zany.json"
+  },
+  {
+    "id": "p_bob_zimmerman",
+    "name": "Bob Zimmerman",
+    "birth_year": 1947,
+    "path": "data/people/p_bob_zimmerman.json"
   },
   {
     "id": "p_boban_alummoodan",
@@ -27432,6 +27520,11 @@
     "path": "data/people/p_bram_lugt.json"
   },
   {
+    "id": "p_bram_meindersma",
+    "name": "Bram Meindersma",
+    "path": "data/people/p_bram_meindersma.json"
+  },
+  {
     "id": "p_bram_renders",
     "name": "Bram Renders",
     "birth_year": 1973,
@@ -31289,6 +31382,12 @@
     "path": "data/people/p_brian_ralston.json"
   },
   {
+    "id": "p_brian_ransom",
+    "name": "Brian Ransom",
+    "birth_year": 1940,
+    "path": "data/people/p_brian_ransom.json"
+  },
+  {
     "id": "p_brian_reddin",
     "name": "Brian Reddin",
     "path": "data/people/p_brian_reddin.json"
@@ -32467,6 +32566,11 @@
     "name": "Brigitte Zeh",
     "birth_year": 1975,
     "path": "data/people/p_brigitte_zeh.json"
+  },
+  {
+    "id": "p_brij_mandal",
+    "name": "Brij Mandal",
+    "path": "data/people/p_brij_mandal.json"
   },
   {
     "id": "p_brijendra_kala",
@@ -34653,6 +34757,12 @@
     "path": "data/people/p_bruno_delport.json"
   },
   {
+    "id": "p_bruno_deniellaurent",
+    "name": "Bruno Deniel-Laurent",
+    "birth_year": 1972,
+    "path": "data/people/p_bruno_deniellaurent.json"
+  },
+  {
     "id": "p_bruno_deville",
     "name": "Bruno Deville",
     "birth_year": 1975,
@@ -35560,6 +35670,12 @@
     "path": "data/people/p_bryan_kocis.json"
   },
   {
+    "id": "p_bryan_konietzko",
+    "name": "Bryan Konietzko",
+    "birth_year": 1976,
+    "path": "data/people/p_bryan_konietzko.json"
+  },
+  {
     "id": "p_bryan_ku",
     "name": "Bryan Ku",
     "birth_year": 1978,
@@ -35570,6 +35686,12 @@
     "name": "Bryan Larkin",
     "birth_year": 1973,
     "path": "data/people/p_bryan_larkin.json"
+  },
+  {
+    "id": "p_bryan_lee_omalley",
+    "name": "Bryan Lee O'Malley",
+    "birth_year": 1979,
+    "path": "data/people/p_bryan_lee_omalley.json"
   },
   {
     "id": "p_bryan_leung",
@@ -37253,6 +37375,11 @@
     "name": "Byung-chun Min",
     "birth_year": 1968,
     "path": "data/people/p_byungchun_min.json"
+  },
+  {
+    "id": "p_byunghoon_lee",
+    "name": "Byung-Hoon Lee",
+    "path": "data/people/p_byunghoon_lee.json"
   },
   {
     "id": "p_byunghun_min",
