@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bjorn_json_lindh",
+  "name": "Björn J:son Lindh",
+  "external_ids": {
+    "wikidata": "Q1812220",
+    "imdb": "nm0511166"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1944,
+  "death_year": 2013
+}

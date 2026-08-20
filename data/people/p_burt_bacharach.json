@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_burt_bacharach",
+  "name": "Burt Bacharach",
+  "external_ids": {
+    "wikidata": "Q212762",
+    "imdb": "nm0000820"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1928,
+  "death_year": 2023
+}
