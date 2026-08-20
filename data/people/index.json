@@ -797,6 +797,12 @@
     "path": "data/people/p_badja_djola.json"
   },
   {
+    "id": "p_badly_drawn_boy",
+    "name": "Badly Drawn Boy",
+    "birth_year": 1969,
+    "path": "data/people/p_badly_drawn_boy.json"
+  },
+  {
     "id": "p_badol_khondokar",
     "name": "Badol Khondokar",
     "birth_year": 1959,
@@ -1802,6 +1808,11 @@
     "id": "p_balasekaran",
     "name": "Balasekaran",
     "path": "data/people/p_balasekaran.json"
+  },
+  {
+    "id": "p_balazs_barna",
+    "name": "Balázs Barna",
+    "path": "data/people/p_balazs_barna.json"
   },
   {
     "id": "p_balazs_csemy",
@@ -4593,6 +4604,12 @@
     "path": "data/people/p_barrie_m_osborne.json"
   },
   {
+    "id": "p_barry_adamson",
+    "name": "Barry Adamson",
+    "birth_year": 1958,
+    "path": "data/people/p_barry_adamson.json"
+  },
+  {
     "id": "p_barry_aird",
     "name": "Barry Aird",
     "path": "data/people/p_barry_aird.json"
@@ -4636,6 +4653,12 @@
     "name": "Barry Blanchard",
     "birth_year": 1959,
     "path": "data/people/p_barry_blanchard.json"
+  },
+  {
+    "id": "p_barry_blue",
+    "name": "Barry Blue",
+    "birth_year": 1950,
+    "path": "data/people/p_barry_blue.json"
   },
   {
     "id": "p_barry_bostwick",
@@ -4735,6 +4758,12 @@
     "path": "data/people/p_barry_g_bernson.json"
   },
   {
+    "id": "p_barry_gifford",
+    "name": "Barry Gifford",
+    "birth_year": 1946,
+    "path": "data/people/p_barry_gifford.json"
+  },
+  {
     "id": "p_barry_gordon",
     "name": "Barry Gordon",
     "birth_year": 1948,
@@ -4808,6 +4837,12 @@
     "name": "Barry Levinson",
     "birth_year": 1942,
     "path": "data/people/p_barry_levinson.json"
+  },
+  {
+    "id": "p_barry_levy",
+    "name": "Barry Levy",
+    "birth_year": 1972,
+    "path": "data/people/p_barry_levy.json"
   },
   {
     "id": "p_barry_livingston",
@@ -5039,6 +5074,12 @@
     "name": "Barry Watson",
     "birth_year": 1974,
     "path": "data/people/p_barry_watson.json"
+  },
+  {
+    "id": "p_barry_wong",
+    "name": "Barry Wong",
+    "birth_year": 1946,
+    "path": "data/people/p_barry_wong.json"
   },
   {
     "id": "p_bars_aladag",
@@ -12220,6 +12261,12 @@
     "path": "data/people/p_benoit_le_rouzes.json"
   },
   {
+    "id": "p_benoit_lestang",
+    "name": "Benoît Lestang",
+    "birth_year": 1964,
+    "path": "data/people/p_benoit_lestang.json"
+  },
+  {
     "id": "p_benoit_liend",
     "name": "Benoît Liénd",
     "birth_year": 1972,
@@ -16072,6 +16119,12 @@
     "path": "data/people/p_bhaskar.json"
   },
   {
+    "id": "p_bhaskar_chandavarkar",
+    "name": "Bhaskar Chandavarkar",
+    "birth_year": 1936,
+    "path": "data/people/p_bhaskar_chandavarkar.json"
+  },
+  {
     "id": "p_bhaskar_hazarika",
     "name": "Bhaskar Hazarika",
     "path": "data/people/p_bhaskar_hazarika.json"
@@ -17213,10 +17266,22 @@
     "path": "data/people/p_bilge_zobu.json"
   },
   {
+    "id": "p_bilja_krstic",
+    "name": "Bilja Krstić",
+    "birth_year": 1955,
+    "path": "data/people/p_bilja_krstic.json"
+  },
+  {
     "id": "p_biljana_cakic",
     "name": "Biljana Čakić",
     "birth_year": 1966,
     "path": "data/people/p_biljana_cakic.json"
+  },
+  {
+    "id": "p_biljana_maksic",
+    "name": "Biljana Maksić",
+    "birth_year": 1961,
+    "path": "data/people/p_biljana_maksic.json"
   },
   {
     "id": "p_biljana_misic",
@@ -18443,6 +18508,12 @@
     "id": "p_billy_chappell",
     "name": "Billy Chappell",
     "path": "data/people/p_billy_chappell.json"
+  },
+  {
+    "id": "p_billy_childs",
+    "name": "Billy Childs",
+    "birth_year": 1957,
+    "path": "data/people/p_billy_childs.json"
   },
   {
     "id": "p_billy_chong",
@@ -22959,6 +23030,12 @@
     "path": "data/people/p_bobby_islam.json"
   },
   {
+    "id": "p_bobby_johnston",
+    "name": "Bobby Johnston",
+    "birth_year": 1966,
+    "path": "data/people/p_bobby_johnston.json"
+  },
+  {
     "id": "p_bobby_keys",
     "name": "Bobby Keys",
     "birth_year": 1943,
@@ -23902,6 +23979,12 @@
     "name": "Bojina Panayotova",
     "birth_year": 1981,
     "path": "data/people/p_bojina_panayotova.json"
+  },
+  {
+    "id": "p_bok_geoil",
+    "name": "Bok Geo-il",
+    "birth_year": 1946,
+    "path": "data/people/p_bok_geoil.json"
   },
   {
     "id": "p_bok_van_blerk",
@@ -27676,6 +27759,12 @@
     "path": "data/people/p_bratya_basu.json"
   },
   {
+    "id": "p_braulio_mantovani",
+    "name": "Bráulio Mantovani",
+    "birth_year": 1963,
+    "path": "data/people/p_braulio_mantovani.json"
+  },
+  {
     "id": "p_brave",
     "name": "Brave",
     "birth_year": 1991,
@@ -28541,6 +28630,12 @@
     "path": "data/people/p_brent_mcgee.json"
   },
   {
+    "id": "p_brent_michael_davids",
+    "name": "Brent Michael Davids",
+    "birth_year": 1959,
+    "path": "data/people/p_brent_michael_davids.json"
+  },
+  {
     "id": "p_brent_rivera",
     "name": "Brent Rivera",
     "birth_year": 1998,
@@ -28955,6 +29050,12 @@
     "name": "Brett Morgen",
     "birth_year": 1968,
     "path": "data/people/p_brett_morgen.json"
+  },
+  {
+    "id": "p_brett_morris",
+    "name": "Brett Morris",
+    "birth_year": 1986,
+    "path": "data/people/p_brett_morris.json"
   },
   {
     "id": "p_brett_pierce",
@@ -32170,6 +32271,12 @@
     "path": "data/people/p_brock_laborde.json"
   },
   {
+    "id": "p_brock_norman_brock",
+    "name": "Brock Norman Brock",
+    "birth_year": 1966,
+    "path": "data/people/p_brock_norman_brock.json"
+  },
+  {
     "id": "p_brock_ohurn",
     "name": "Brock O'Hurn",
     "birth_year": 1991,
@@ -32627,6 +32734,12 @@
     "path": "data/people/p_brooks_almy.json"
   },
   {
+    "id": "p_brooks_arthur",
+    "name": "Brooks Arthur",
+    "birth_year": 1935,
+    "path": "data/people/p_brooks_arthur.json"
+  },
+  {
     "id": "p_brooks_ashmanskas",
     "name": "Brooks Ashmanskas",
     "birth_year": 1969,
@@ -33008,6 +33121,12 @@
     "id": "p_bruce_isacson",
     "name": "Bruce Isacson",
     "path": "data/people/p_bruce_isacson.json"
+  },
+  {
+    "id": "p_bruce_joel_rubin",
+    "name": "Bruce Joel Rubin",
+    "birth_year": 1943,
+    "path": "data/people/p_bruce_joel_rubin.json"
   },
   {
     "id": "p_bruce_johnson",
