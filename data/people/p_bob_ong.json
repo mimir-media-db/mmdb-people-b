@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_ong",
+  "name": "Bob Ong",
+  "external_ids": {
+    "wikidata": "Q10640401"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}

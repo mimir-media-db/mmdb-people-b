@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bjorn_olsson",
+  "name": "Björn Olsson",
+  "external_ids": {
+    "wikidata": "Q6026612",
+    "imdb": "nm3242749"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1963
+}
