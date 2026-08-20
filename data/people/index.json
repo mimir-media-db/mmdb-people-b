@@ -5092,6 +5092,12 @@
     "path": "data/people/p_barry_keoghan.json"
   },
   {
+    "id": "p_barry_kerch",
+    "name": "Barry Kerch",
+    "birth_year": 1976,
+    "path": "data/people/p_barry_kerch.json"
+  },
+  {
     "id": "p_barry_larkin",
     "name": "Barry Larkin",
     "birth_year": 1964,
@@ -7553,6 +7559,12 @@
     "name": "Beau Bridges",
     "birth_year": 1941,
     "path": "data/people/p_beau_bridges.json"
+  },
+  {
+    "id": "p_beau_demayo",
+    "name": "Beau DeMayo",
+    "birth_year": 1982,
+    "path": "data/people/p_beau_demayo.json"
   },
   {
     "id": "p_beau_flynn",
@@ -10053,6 +10065,12 @@
     "id": "p_ben_pugh",
     "name": "Ben Pugh",
     "path": "data/people/p_ben_pugh.json"
+  },
+  {
+    "id": "p_ben_queen",
+    "name": "Ben Queen",
+    "birth_year": 1899,
+    "path": "data/people/p_ben_queen.json"
   },
   {
     "id": "p_ben_radcliffe",
@@ -14401,6 +14419,11 @@
     "path": "data/people/p_bernardo_sassetti.json"
   },
   {
+    "id": "p_bernardo_uzeda",
+    "name": "Bernardo Uzeda",
+    "path": "data/people/p_bernardo_uzeda.json"
+  },
+  {
     "id": "p_bernardpierre_donnadieu",
     "name": "Bernard-Pierre Donnadieu",
     "birth_year": 1949,
@@ -14416,6 +14439,12 @@
     "id": "p_bernat_rife_oro",
     "name": "Bernat Rifé Oró",
     "path": "data/people/p_bernat_rife_oro.json"
+  },
+  {
+    "id": "p_bernat_vivancos_i_farras",
+    "name": "Bernat Vivancos i Farràs",
+    "birth_year": 1972,
+    "path": "data/people/p_bernat_vivancos_i_farras.json"
   },
   {
     "id": "p_bernd_begemann",
@@ -27217,6 +27246,11 @@
     "path": "data/people/p_bozenna_partyka.json"
   },
   {
+    "id": "p_bozhan_petrov",
+    "name": "Bozhan Petrov",
+    "path": "data/people/p_bozhan_petrov.json"
+  },
+  {
     "id": "p_bozhidar_petkov",
     "name": "Bozhidar Petkov",
     "birth_year": 1940,
@@ -30226,6 +30260,12 @@
     "path": "data/people/p_brent_skagford.json"
   },
   {
+    "id": "p_brent_smith",
+    "name": "Brent Smith",
+    "birth_year": 1978,
+    "path": "data/people/p_brent_smith.json"
+  },
+  {
     "id": "p_brent_spiner",
     "name": "Brent Spiner",
     "birth_year": 1949,
@@ -31201,6 +31241,11 @@
     "name": "Brian Dietzen",
     "birth_year": 1977,
     "path": "data/people/p_brian_dietzen.json"
+  },
+  {
+    "id": "p_brian_doliveira",
+    "name": "Brian D'Oliveira",
+    "path": "data/people/p_brian_doliveira.json"
   },
   {
     "id": "p_brian_donahue",
