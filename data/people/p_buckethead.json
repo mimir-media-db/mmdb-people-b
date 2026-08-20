@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_buckethead",
+  "name": "Buckethead",
+  "external_ids": {
+    "wikidata": "Q265252",
+    "imdb": "nm1028395"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
