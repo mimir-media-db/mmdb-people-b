@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_barry_blue",
+  "name": "Barry Blue",
+  "external_ids": {
+    "wikidata": "Q809011",
+    "imdb": "nm1154721"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1950
+}
