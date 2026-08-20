@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ben_mink",
+  "name": "Ben Mink",
+  "external_ids": {
+    "wikidata": "Q4886173",
+    "imdb": "nm0591413"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1951
+}
