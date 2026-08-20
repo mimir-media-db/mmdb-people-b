@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_ko",
+  "name": "Bert Koß",
+  "external_ids": {
+    "wikidata": "Q16003181",
+    "imdb": "nm1841022"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
