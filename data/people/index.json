@@ -779,6 +779,12 @@
     "path": "data/people/p_badema.json"
   },
   {
+    "id": "p_baden_powell",
+    "name": "Baden Powell",
+    "birth_year": 1937,
+    "path": "data/people/p_baden_powell.json"
+  },
+  {
     "id": "p_bader_ben_hirsi",
     "name": "Bader Ben Hirsi",
     "birth_year": 1967,
@@ -1335,6 +1341,12 @@
     "name": "Bahram Beyzai",
     "birth_year": 1938,
     "path": "data/people/p_bahram_beyzai.json"
+  },
+  {
+    "id": "p_bahram_dehghanyar",
+    "name": "Bahram Dehghanyar",
+    "birth_year": 1965,
+    "path": "data/people/p_bahram_dehghanyar.json"
   },
   {
     "id": "p_bahram_ebrahimi",
@@ -2055,6 +2067,12 @@
     "name": "Baltazar Tokman",
     "birth_year": 1970,
     "path": "data/people/p_baltazar_tokman.json"
+  },
+  {
+    "id": "p_balthasar_von_weymarn",
+    "name": "Balthasar von Weymarn",
+    "birth_year": 1967,
+    "path": "data/people/p_balthasar_von_weymarn.json"
   },
   {
     "id": "p_balthazar_getty",
@@ -2944,6 +2962,12 @@
     "name": "Barbara Chybová",
     "birth_year": 1982,
     "path": "data/people/p_barbara_chybova.json"
+  },
+  {
+    "id": "p_barbara_cohen",
+    "name": "Barbara Cohen",
+    "birth_year": 1932,
+    "path": "data/people/p_barbara_cohen.json"
   },
   {
     "id": "p_barbara_colen",
@@ -4410,6 +4434,12 @@
     "name": "Barkhad Abdi",
     "birth_year": 1985,
     "path": "data/people/p_barkhad_abdi.json"
+  },
+  {
+    "id": "p_barly_baruti",
+    "name": "Barly Baruti",
+    "birth_year": 1959,
+    "path": "data/people/p_barly_baruti.json"
   },
   {
     "id": "p_barmak_akram",
@@ -6905,6 +6935,12 @@
     "path": "data/people/p_beatrice_bruno.json"
   },
   {
+    "id": "p_beatrice_colombier",
+    "name": "Béatrice Colombier",
+    "birth_year": 1962,
+    "path": "data/people/p_beatrice_colombier.json"
+  },
+  {
     "id": "p_beatrice_costantini",
     "name": "Béatrice Costantini",
     "birth_year": 1947,
@@ -7310,6 +7346,12 @@
     "name": "Beau Starr",
     "birth_year": 1944,
     "path": "data/people/p_beau_starr.json"
+  },
+  {
+    "id": "p_beau_thorne",
+    "name": "Beau Thorne",
+    "birth_year": 1978,
+    "path": "data/people/p_beau_thorne.json"
   },
   {
     "id": "p_beau_van_erven_dorens",
@@ -7756,6 +7798,12 @@
     "name": "Behrang Alavi",
     "birth_year": 1980,
     "path": "data/people/p_behrang_alavi.json"
+  },
+  {
+    "id": "p_behrang_behdjou",
+    "name": "Behrang Behdjou",
+    "birth_year": 1976,
+    "path": "data/people/p_behrang_behdjou.json"
   },
   {
     "id": "p_behrooz_afkhami",
@@ -9482,6 +9530,12 @@
     "name": "Ben Mingay",
     "birth_year": 1979,
     "path": "data/people/p_ben_mingay.json"
+  },
+  {
+    "id": "p_ben_mink",
+    "name": "Ben Mink",
+    "birth_year": 1951,
+    "path": "data/people/p_ben_mink.json"
   },
   {
     "id": "p_ben_mole",
@@ -17759,6 +17813,12 @@
     "path": "data/people/p_bill_conti.json"
   },
   {
+    "id": "p_bill_corbett",
+    "name": "Bill Corbett",
+    "birth_year": 1960,
+    "path": "data/people/p_bill_corbett.json"
+  },
+  {
     "id": "p_bill_corcoran",
     "name": "Bill Corcoran",
     "birth_year": 1951,
@@ -24580,6 +24640,12 @@
     "path": "data/people/p_bongkoj_khongmalai.json"
   },
   {
+    "id": "p_bongky_marcel",
+    "name": "Bongky Marcel",
+    "birth_year": 1966,
+    "path": "data/people/p_bongky_marcel.json"
+  },
+  {
     "id": "p_bonifacio_angius",
     "name": "Bonifacio Angius",
     "birth_year": 1982,
@@ -25269,6 +25335,12 @@
     "path": "data/people/p_boris_kamorzin.json"
   },
   {
+    "id": "p_boris_karadzhev",
+    "name": "Boris Karadzhev",
+    "birth_year": 1947,
+    "path": "data/people/p_boris_karadzhev.json"
+  },
+  {
     "id": "p_boris_karloff",
     "name": "Boris Karloff",
     "birth_year": 1887,
@@ -25551,6 +25623,12 @@
     "name": "Boris Ryzhy",
     "birth_year": 1974,
     "path": "data/people/p_boris_ryzhy.json"
+  },
+  {
+    "id": "p_boris_salchow",
+    "name": "Boris Salchow",
+    "birth_year": 1972,
+    "path": "data/people/p_boris_salchow.json"
   },
   {
     "id": "p_boris_savenko",
@@ -26698,6 +26776,11 @@
     "path": "data/people/p_brad_renfro.json"
   },
   {
+    "id": "p_brad_riddell",
+    "name": "Brad Riddell",
+    "path": "data/people/p_brad_riddell.json"
+  },
+  {
     "id": "p_brad_rizer",
     "name": "Brad Rizer",
     "path": "data/people/p_brad_rizer.json"
@@ -26851,6 +26934,11 @@
     "name": "Bradford Tatum",
     "birth_year": 1965,
     "path": "data/people/p_bradford_tatum.json"
+  },
+  {
+    "id": "p_bradford_thomason",
+    "name": "Bradford Thomason",
+    "path": "data/people/p_bradford_thomason.json"
   },
   {
     "id": "p_bradley_battersby",
@@ -29734,6 +29822,12 @@
     "name": "Brian Avers",
     "birth_year": 1953,
     "path": "data/people/p_brian_avers.json"
+  },
+  {
+    "id": "p_brian_azzarello",
+    "name": "Brian Azzarello",
+    "birth_year": 1962,
+    "path": "data/people/p_brian_azzarello.json"
   },
   {
     "id": "p_brian_backer",
@@ -32992,6 +33086,11 @@
     "path": "data/people/p_bronwyn_james.json"
   },
   {
+    "id": "p_brook_durham",
+    "name": "Brook Durham",
+    "path": "data/people/p_brook_durham.json"
+  },
+  {
     "id": "p_brooke_adams",
     "name": "Brooke Adams",
     "birth_year": 1949,
@@ -34982,6 +35081,11 @@
     "path": "data/people/p_bruno_vaussenat.json"
   },
   {
+    "id": "p_bruno_ventura",
+    "name": "Bruno Ventura",
+    "path": "data/people/p_bruno_ventura.json"
+  },
+  {
     "id": "p_bruno_vespa",
     "name": "Bruno Vespa",
     "birth_year": 1944,
@@ -35782,6 +35886,12 @@
     "name": "Buda Gulyás",
     "birth_year": 1949,
     "path": "data/people/p_buda_gulyas.json"
+  },
+  {
+    "id": "p_budda",
+    "name": "Bud'da",
+    "birth_year": 1972,
+    "path": "data/people/p_budda.json"
   },
   {
     "id": "p_buddhadeb_bhattacharya",
