@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_joris",
+  "name": "Bert Joris",
+  "external_ids": {
+    "wikidata": "Q359361",
+    "imdb": "nm0430419"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_walsh",
+  "name": "Bill Walsh",
+  "external_ids": {
+    "wikidata": "Q373128",
+    "imdb": "nm0909556"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1913,
+  "death_year": 1975
+}

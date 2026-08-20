@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bruce_watson",
+  "name": "Bruce Watson",
+  "external_ids": {
+    "wikidata": "Q4978433",
+    "imdb": "nm0914532"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1961
+}
