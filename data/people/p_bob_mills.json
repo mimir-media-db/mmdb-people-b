@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_mills",
+  "name": "Bob Mills",
+  "external_ids": {
+    "wikidata": "Q4933417",
+    "imdb": "nm0589924"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}

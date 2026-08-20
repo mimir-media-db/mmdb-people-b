@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bob_lenox",
+  "name": "Bob Lenox",
+  "external_ids": {
+    "wikidata": "Q644797",
+    "imdb": "nm0502182"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1944,
+  "death_year": 2010
+}

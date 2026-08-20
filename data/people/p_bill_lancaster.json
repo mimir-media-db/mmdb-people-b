@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_lancaster",
+  "name": "Bill Lancaster",
+  "external_ids": {
+    "wikidata": "Q707079",
+    "imdb": "nm0484111"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1947,
+  "death_year": 1997
+}
