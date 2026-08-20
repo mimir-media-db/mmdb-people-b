@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_bert_embrechts",
+  "name": "Bert Embrechts",
+  "external_ids": {
+    "wikidata": "Q52888348",
+    "imdb": "nm0256102"
+  },
+  "last_updated": "2026-08-20"
+}
