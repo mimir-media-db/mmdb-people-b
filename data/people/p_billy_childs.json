@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_billy_childs",
+  "name": "Billy Childs",
+  "external_ids": {
+    "wikidata": "Q863047",
+    "imdb": "nm0157550"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
