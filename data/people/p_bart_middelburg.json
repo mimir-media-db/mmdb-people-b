@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bart_middelburg",
+  "name": "Bart Middelburg",
+  "external_ids": {
+    "wikidata": "Q1822893",
+    "imdb": "nm1450700"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1955
+}
