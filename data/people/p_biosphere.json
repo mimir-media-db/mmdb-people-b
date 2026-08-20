@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_biosphere",
+  "name": "Biosphere",
+  "external_ids": {
+    "wikidata": "Q616371",
+    "imdb": "nm0421780"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}

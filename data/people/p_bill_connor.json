@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bill_connor",
+  "name": "Bill Connor",
+  "external_ids": {
+    "wikidata": "Q22661630",
+    "imdb": "nm0175389"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1948
+}
