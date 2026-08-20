@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_bruce_geller",
+  "name": "Bruce Geller",
+  "external_ids": {
+    "wikidata": "Q434715",
+    "imdb": "nm0312367"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1930,
+  "death_year": 1978
+}
