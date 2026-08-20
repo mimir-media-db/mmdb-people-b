@@ -14182,6 +14182,12 @@
     "path": "data/people/p_bernard_mabille.json"
   },
   {
+    "id": "p_bernard_maclaverty",
+    "name": "Bernard MacLaverty",
+    "birth_year": 1942,
+    "path": "data/people/p_bernard_maclaverty.json"
+  },
+  {
     "id": "p_bernard_macmahon",
     "name": "Bernard MacMahon",
     "birth_year": 1968,
@@ -15400,6 +15406,12 @@
     "id": "p_bertie",
     "name": "Bertie",
     "path": "data/people/p_bertie.json"
+  },
+  {
+    "id": "p_bertie_brandes",
+    "name": "Bertie Brandes",
+    "birth_year": 1989,
+    "path": "data/people/p_bertie_brandes.json"
   },
   {
     "id": "p_bertie_caplan",
@@ -17442,6 +17454,12 @@
     "name": "Bhuwan K.C.",
     "birth_year": 1957,
     "path": "data/people/p_bhuwan_kc.json"
+  },
+  {
+    "id": "p_bi",
+    "name": "B.I",
+    "birth_year": 1996,
+    "path": "data/people/p_bi.json"
   },
   {
     "id": "p_bi_feiyu",
@@ -25203,6 +25221,11 @@
     "path": "data/people/p_bohdan_holomicek.json"
   },
   {
+    "id": "p_bohdan_horban",
+    "name": "Bohdan Horban",
+    "path": "data/people/p_bohdan_horban.json"
+  },
+  {
     "id": "p_bohdan_karasek",
     "name": "Bohdan Karásek",
     "birth_year": 1978,
@@ -28975,6 +28998,11 @@
     "path": "data/people/p_brandon_lessard.json"
   },
   {
+    "id": "p_brandon_m_easton",
+    "name": "Brandon M. Easton",
+    "path": "data/people/p_brandon_m_easton.json"
+  },
+  {
     "id": "p_brandon_mcknight",
     "name": "Brandon McKnight",
     "path": "data/people/p_brandon_mcknight.json"
@@ -31261,6 +31289,11 @@
     "path": "data/people/p_brian_c_weed.json"
   },
   {
+    "id": "p_brian_cachia",
+    "name": "Brian Cachia",
+    "path": "data/people/p_brian_cachia.json"
+  },
+  {
     "id": "p_brian_cage",
     "name": "Brian Cage",
     "birth_year": 1984,
@@ -33460,6 +33493,11 @@
     "id": "p_brigitte_coscas",
     "name": "Brigitte Coscas",
     "path": "data/people/p_brigitte_coscas.json"
+  },
+  {
+    "id": "p_brigitte_dajczer",
+    "name": "Brigitte Dajczer",
+    "path": "data/people/p_brigitte_dajczer.json"
   },
   {
     "id": "p_brigitte_de_man",
