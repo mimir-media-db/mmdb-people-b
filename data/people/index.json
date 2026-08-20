@@ -3975,6 +3975,11 @@
     "path": "data/people/p_barbara_tarbuck.json"
   },
   {
+    "id": "p_barbara_te_kock",
+    "name": "Barbara te Kock",
+    "path": "data/people/p_barbara_te_kock.json"
+  },
+  {
     "id": "p_barbara_terpoortenmaurer",
     "name": "Barbara Terpoorten-Maurer",
     "birth_year": 1975,
@@ -5160,6 +5165,11 @@
     "name": "Barry Lynch",
     "birth_year": 1944,
     "path": "data/people/p_barry_lynch.json"
+  },
+  {
+    "id": "p_barry_marder",
+    "name": "Barry Marder",
+    "path": "data/people/p_barry_marder.json"
   },
   {
     "id": "p_barry_mcevoy",
@@ -6577,6 +6587,11 @@
     "name": "Batu Khasikov",
     "birth_year": 1980,
     "path": "data/people/p_batu_khasikov.json"
+  },
+  {
+    "id": "p_batu_sener",
+    "name": "Batu Sener",
+    "path": "data/people/p_batu_sener.json"
   },
   {
     "id": "p_batuhan_eryigit",
@@ -27871,6 +27886,11 @@
     "path": "data/people/p_brad_newman.json"
   },
   {
+    "id": "p_brad_oberhofer",
+    "name": "Brad Oberhofer",
+    "path": "data/people/p_brad_oberhofer.json"
+  },
+  {
     "id": "p_brad_osborne",
     "name": "Brad Osborne",
     "path": "data/people/p_brad_osborne.json"
@@ -31175,6 +31195,12 @@
     "path": "data/people/p_brian_brough.json"
   },
   {
+    "id": "p_brian_buccellato",
+    "name": "Brian Buccellato",
+    "birth_year": 1970,
+    "path": "data/people/p_brian_buccellato.json"
+  },
+  {
     "id": "p_brian_burns",
     "name": "Brian Burns",
     "path": "data/people/p_brian_burns.json"
@@ -31795,6 +31821,12 @@
     "path": "data/people/p_brian_ireland.json"
   },
   {
+    "id": "p_brian_irvine",
+    "name": "Brian Irvine",
+    "birth_year": 1965,
+    "path": "data/people/p_brian_irvine.json"
+  },
+  {
     "id": "p_brian_j_falconer",
     "name": "Brian J. Falconer",
     "path": "data/people/p_brian_j_falconer.json"
@@ -31833,6 +31865,12 @@
     "name": "Brian Jamieson",
     "birth_year": 1900,
     "path": "data/people/p_brian_jamieson.json"
+  },
+  {
+    "id": "p_brian_jarvis",
+    "name": "Brian Jarvis",
+    "birth_year": 1933,
+    "path": "data/people/p_brian_jarvis.json"
   },
   {
     "id": "p_brian_jett",
@@ -33234,6 +33272,11 @@
     "name": "Brigida",
     "birth_year": 2000,
     "path": "data/people/p_brigida.json"
+  },
+  {
+    "id": "p_brigit_grant",
+    "name": "Brigit Grant",
+    "path": "data/people/p_brigit_grant.json"
   },
   {
     "id": "p_brigit_hillenius",
@@ -35916,6 +35959,12 @@
     "path": "data/people/p_bruno_f_apitz.json"
   },
   {
+    "id": "p_bruno_falanga",
+    "name": "Bruno Falanga",
+    "birth_year": 1986,
+    "path": "data/people/p_bruno_falanga.json"
+  },
+  {
     "id": "p_bruno_felix",
     "name": "Bruno Felix",
     "birth_year": 1967,
@@ -37040,6 +37089,11 @@
     "name": "Bryce Johnson",
     "birth_year": 1977,
     "path": "data/people/p_bryce_johnson.json"
+  },
+  {
+    "id": "p_bryce_kass",
+    "name": "Bryce Kass",
+    "path": "data/people/p_bryce_kass.json"
   },
   {
     "id": "p_bryce_mcguire",
@@ -38334,6 +38388,11 @@
     "name": "Buzz Feitshans IV",
     "birth_year": 1959,
     "path": "data/people/p_buzz_feitshans_iv.json"
+  },
+  {
+    "id": "p_buzz_mclaughlin",
+    "name": "Buzz McLaughlin",
+    "path": "data/people/p_buzz_mclaughlin.json"
   },
   {
     "id": "p_bv_nandini_reddy",
