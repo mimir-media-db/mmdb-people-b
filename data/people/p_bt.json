@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_bt",
+  "name": "BT",
+  "external_ids": {
+    "wikidata": "Q361431",
+    "imdb": "nm0117741"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
